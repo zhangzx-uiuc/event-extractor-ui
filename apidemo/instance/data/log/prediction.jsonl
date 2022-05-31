@@ -1,0 +1,901 @@
+{"annotations": []}
+{"annotations": [[1, 4, "Justice:Sue"]]}
+{"annotations": []}
+{"annotations": []}
+{"annotations": [[82, 89, "Contact:Meet"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 8, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[1, 7, "Justice:Sue"]]}
+{"annotations": [[1, 4, "Justice:Sue"]]}
+{"annotations": [[29, 35, "Personnel:Start-Position"]]}
+{"annotations": [[197, 202, "Personnel:Start-Position"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 7, "Justice:Sue"]]}
+{"annotations": [[36, 43, "Justice:Trial-Hearing"], [0, 7, "Justice:Sue"]]}
+{"annotations": [[20, 24, "Personnel:Elect"], [71, 75, "Personnel:Elect"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[105, 115, "Contact:Meet"], [77, 81, "Personnel:Elect"], [0, 11, "Justice:Sue"], [159, 166, "Contact:Meet"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[267, 273, "Personnel:Elect"], [282, 287, "Personnel:Elect"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[199, 203, "Personnel:Start-Position"], [99, 110, "Transaction:Transfer-Money"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[294, 305, "Contact:Meet"], [0, 3, "Justice:Sue"], [81, 88, "Contact:Meet"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"], [129, 136, "Life:Die"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[27, 31, "Personnel:Start-Position"], [0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[141, 148, "Personnel:Elect"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[95, 102, "Personnel:Elect"], [0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[328, 331, "Transaction:Transfer-Money"], [0, 7, "Justice:Sue"], [332, 337, "Justice:Sue"], [151, 155, "Contact:Meet"], [248, 252, "Contact:Meet"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[213, 218, "Personnel:Start-Position"], [151, 158, "Contact:Meet"], [0, 3, "Justice:Sue"], [305, 312, "Justice:Sue"], [292, 296, "Justice:Sue"], [185, 192, "Personnel:End-Position"], [23, 27, "Contact:Meet"], [346, 354, "Justice:Charge-Indict"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[164, 171, "Justice:Sue"], [0, 2, "Justice:Sue"], [27, 34, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[31, 35, "Justice:Sue"], [0, 2, "Justice:Sue"], [92, 96, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": [[1, 4, "Justice:Sue"]]}
+{"annotations": []}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[194, 197, "Transaction:Transfer-Money"], [159, 166, "Contact:Meet"], [0, 4, "Justice:Sue"], [34, 46, "Transaction:Transfer-Money"], [75, 83, "Contact:Meet"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"]]}
+{"annotations": []}
+{"annotations": [[1, 4, "Justice:Sue"]]}
+{"annotations": [[1, 3, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[127, 137, "Transaction:Transfer-Money"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[30, 39, "Transaction:Transfer-Money"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[38, 44, "Transaction:Transfer-Money"], [112, 120, "Contact:Meet"], [0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"], [54, 65, "Transaction:Transfer-Money"]]}
+{"annotations": [[37, 44, "Contact:Meet"], [0, 7, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": [[1, 4, "Justice:Sue"]]}
+{"annotations": [[1, 3, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"]]}
+{"annotations": [[1, 6, "Justice:Sue"]]}
+{"annotations": [[1, 4, "Justice:Sue"]]}
+{"annotations": [[1, 3, "Justice:Sue"]]}
+{"annotations": [[104, 108, "Transaction:Transfer-Money"], [84, 96, "Transaction:Transfer-Money"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[13, 26, "Transaction:Transfer-Money"], [0, 2, "Justice:Sue"], [96, 102, "Movement:Transport"], [131, 139, "Contact:Meet"]]}
+{"annotations": [[54, 66, "Transaction:Transfer-Money"], [0, 7, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 8, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": []}
+{"annotations": [[1, 4, "Justice:Sue"]]}
+{"annotations": [[1, 3, "Justice:Sue"]]}
+{"annotations": [[68, 71, "Transaction:Transfer-Money"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[42, 49, "Transaction:Transfer-Money"], [0, 4, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": [[1, 4, "Justice:Sue"]]}
+{"annotations": [[1, 3, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"]]}
+{"annotations": [[1, 10, "Justice:Sue"]]}
+{"annotations": [[1, 4, "Justice:Sue"]]}
+{"annotations": [[1, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 14, "Justice:Sue"]]}
+{"annotations": [[1, 10, "Justice:Sue"]]}
+{"annotations": [[1, 4, "Justice:Sue"]]}
+{"annotations": [[1, 3, "Justice:Sue"]]}
+{"annotations": [[0, 7, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": []}
+{"annotations": [[1, 4, "Justice:Sue"]]}
+{"annotations": [[1, 3, "Justice:Sue"]]}
+{"annotations": [[0, 8, "Justice:Sue"]]}
+{"annotations": [[45, 48, "Transaction:Transfer-Money"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[52, 63, "Transaction:Transfer-Money"], [0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"]]}
+{"annotations": [[40, 49, "Transaction:Transfer-Money"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[114, 120, "Transaction:Transfer-Money"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"]]}
+{"annotations": []}
+{"annotations": [[1, 4, "Justice:Sue"]]}
+{"annotations": [[1, 3, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[57, 60, "Transaction:Transfer-Money"], [67, 74, "Personnel:Elect"], [0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 8, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[1, 7, "Justice:Sue"]]}
+{"annotations": [[0, 10, "Justice:Sue"], [147, 153, "Movement:Transport"]]}
+{"annotations": [[0, 6, "Justice:Sue"]]}
+{"annotations": [[0, 7, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 12, "Justice:Sue"]]}
+{"annotations": [[0, 9, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 10, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"], [24, 27, "Conflict:Attack"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"], [21, 30, "Personnel:End-Position"]]}
+{"annotations": [[43, 48, "Personnel:End-Position"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[121, 127, "Life:Die"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[1, 8, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"], [89, 95, "Movement:Transport"]]}
+{"annotations": []}
+{"annotations": [[0, 9, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"], [65, 70, "Contact:Meet"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[1, 6, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[119, 126, "Conflict:Attack"], [0, 5, "Justice:Sue"]]}
+{"annotations": [[184, 191, "Conflict:Attack"], [0, 5, "Justice:Sue"], [92, 99, "Movement:Transport"]]}
+{"annotations": [[0, 5, "Justice:Sue"], [152, 162, "Life:Injure"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"], [89, 92, "Conflict:Attack"], [80, 84, "Conflict:Attack"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[1, 6, "Justice:Sue"]]}
+{"annotations": [[0, 7, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[48, 51, "Conflict:Attack"], [6, 13, "Contact:Meet"], [0, 2, "Justice:Sue"], [57, 63, "Personnel:End-Position"]]}
+{"annotations": [[51, 57, "Personnel:End-Position"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[1, 7, "Justice:Sue"]]}
+{"annotations": [[73, 76, "Conflict:Attack"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"], [80, 86, "Life:Die"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[1, 7, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"], [78, 82, "Life:Die"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[1, 7, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[1, 7, "Justice:Sue"]]}
+{"annotations": [[66, 69, "Conflict:Attack"], [0, 4, "Justice:Sue"]]}
+{"annotations": [[26, 29, "Conflict:Attack"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 7, "Justice:Sue"], [50, 54, "Life:Die"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[142, 145, "Conflict:Attack"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[1, 6, "Justice:Sue"]]}
+{"annotations": [[68, 71, "Conflict:Attack"], [89, 92, "Conflict:Attack"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"], [139, 142, "Conflict:Attack"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[1, 8, "Justice:Sue"]]}
+{"annotations": [[35, 38, "Transaction:Transfer-Ownership"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[36, 39, "Conflict:Attack"], [53, 61, "Conflict:Attack"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[214, 217, "Conflict:Attack"], [0, 4, "Justice:Sue"]]}
+{"annotations": [[31, 39, "Conflict:Attack"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[1, 7, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[1, 7, "Justice:Sue"]]}
+{"annotations": [[32, 35, "Conflict:Attack"], [0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"]]}
+{"annotations": [[1, 7, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[1, 9, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 10, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[191, 194, "Conflict:Attack"], [0, 6, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"], [71, 78, "Contact:Meet"]]}
+{"annotations": [[172, 175, "Conflict:Attack"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"]]}
+{"annotations": [[125, 128, "Conflict:Attack"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 7, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"]]}
+{"annotations": [[15, 18, "Conflict:Attack"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[1, 9, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"], [73, 80, "Personnel:End-Position"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[15, 22, "Personnel:End-Position"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"], [68, 76, "Contact:Meet"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[9, 15, "Justice:Trial-Hearing"], [0, 4, "Justice:Sue"]]}
+{"annotations": [[81, 89, "Contact:Meet"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[49, 57, "Contact:Meet"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"], [85, 88, "Conflict:Attack"]]}
+{"annotations": [[1, 9, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[61, 68, "Justice:Release-Parole"], [91, 101, "Personnel:End-Position"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": []}
+{"annotations": [[0, 2, "Justice:Sue"], [21, 25, "Movement:Transport"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": []}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[1, 8, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": []}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": []}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 10, "Justice:Sue"]]}
+{"annotations": [[0, 7, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 7, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[123, 126, "Conflict:Attack"], [57, 62, "Personnel:End-Position"], [0, 1, "Justice:Sue"], [81, 86, "Personnel:End-Position"]]}
+{"annotations": [[13, 16, "Conflict:Attack"], [96, 100, "Personnel:End-Position"], [0, 4, "Justice:Sue"]]}
+{"annotations": []}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[96, 100, "Conflict:Attack"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[1, 8, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": []}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[1, 8, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": []}
+{"annotations": [[0, 9, "Justice:Sue"]]}
+{"annotations": []}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[1, 8, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[125, 133, "Personnel:Elect"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[1, 8, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 7, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[1, 9, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"], [139, 143, "Life:Injure"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": [[0, 9, "Justice:Sue"]]}
+{"annotations": [[1, 9, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[1, 6, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[1, 7, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"], [196, 199, "Justice:Trial-Hearing"]]}
+{"annotations": [[1, 6, "Justice:Sue"]]}
+{"annotations": [[0, 8, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"], [49, 57, "Conflict:Attack"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": []}
+{"annotations": [[0, 4, "Justice:Sue"], [163, 169, "Justice:Trial-Hearing"]]}
+{"annotations": [[1, 6, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[64, 73, "Conflict:Attack"], [0, 10, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[211, 220, "Conflict:Attack"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"], [103, 116, "Life:Die"], [130, 136, "Personnel:End-Position"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[182, 191, "Conflict:Attack"], [0, 2, "Justice:Sue"], [63, 70, "Justice:Appeal"]]}
+{"annotations": [[46, 55, "Conflict:Attack"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[246, 252, "Conflict:Attack"], [0, 7, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[69, 79, "Conflict:Attack"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[64, 73, "Conflict:Attack"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 15, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[58, 67, "Conflict:Attack"], [231, 240, "Conflict:Attack"], [85, 94, "Contact:Meet"], [0, 1, "Justice:Sue"], [190, 195, "Contact:Meet"], [125, 132, "Contact:Meet"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"], [26, 31, "Justice:Trial-Hearing"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"], [11, 16, "Justice:Trial-Hearing"]]}
+{"annotations": [[115, 122, "Conflict:Attack"], [40, 50, "Justice:Trial-Hearing"], [78, 84, "Conflict:Attack"], [0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"], [55, 60, "Justice:Trial-Hearing"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[1, 6, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": []}
+{"annotations": [[47, 55, "Personnel:Start-Position"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"], [25, 29, "Contact:Phone-Write"], [57, 63, "Personnel:End-Position"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"], [72, 76, "Life:Die"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 9, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[14, 17, "Transaction:Transfer-Money"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[11, 17, "Transaction:Transfer-Money"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[1, 6, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": [[76, 83, "Life:Die"], [58, 71, "Justice:Charge-Indict"], [0, 4, "Justice:Sue"], [86, 93, "Life:Injure"]]}
+{"annotations": [[0, 7, "Justice:Sue"], [56, 64, "Conflict:Attack"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[37, 41, "Conflict:Attack"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[14, 18, "Conflict:Attack"], [0, 1, "Justice:Sue"]]}
+{"annotations": [[4, 9, "Conflict:Attack"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[191, 195, "Life:Die"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"], [42, 46, "Life:Die"], [64, 80, "Life:Die"]]}
+{"annotations": [[0, 3, "Justice:Sue"], [45, 49, "Life:Die"], [54, 61, "Life:Injure"]]}
+{"annotations": [[152, 155, "Conflict:Attack"], [19, 22, "Conflict:Attack"], [0, 1, "Justice:Sue"]]}
+{"annotations": [[130, 133, "Conflict:Attack"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": [[0, 11, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[34, 41, "Personnel:Start-Position"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"], [149, 153, "Transaction:Transfer-Money"]]}
+{"annotations": [[29, 33, "Transaction:Transfer-Money"], [0, 8, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 7, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[62, 68, "Personnel:End-Position"], [0, 7, "Justice:Sue"]]}
+{"annotations": [[4, 9, "Justice:Trial-Hearing"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 14, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[241, 250, "Life:Die"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"], [114, 122, "Life:Die"]]}
+{"annotations": [[208, 216, "Life:Die"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[36, 40, "Transaction:Transfer-Money"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": [[80, 90, "Conflict:Attack"], [27, 34, "Contact:Meet"], [0, 5, "Justice:Sue"]]}
+{"annotations": [[125, 129, "Life:Die"], [0, 5, "Justice:Sue"], [19, 37, "Conflict:Attack"]]}
+{"annotations": [[98, 109, "Life:Die"], [0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[77, 81, "Conflict:Attack"], [0, 7, "Justice:Sue"], [89, 93, "Conflict:Attack"]]}
+{"annotations": [[0, 3, "Justice:Sue"], [40, 43, "Life:Die"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"], [39, 43, "Life:Die"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[122, 126, "Conflict:Attack"], [0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 9, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[181, 191, "Conflict:Attack"], [0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 7, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[75, 81, "Life:Die"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"], [56, 59, "Life:Die"]]}
+{"annotations": [[41, 45, "Conflict:Attack"], [33, 40, "Life:Die"], [0, 6, "Justice:Sue"], [65, 72, "Life:Die"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 8, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"], [101, 104, "Conflict:Attack"]]}
+{"annotations": [[0, 3, "Justice:Sue"], [10, 20, "Movement:Transport"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 8, "Justice:Sue"]]}
+{"annotations": [[113, 118, "Movement:Transport"], [0, 2, "Justice:Sue"], [373, 377, "Movement:Transport"]]}
+{"annotations": [[126, 130, "Movement:Transport"], [0, 7, "Justice:Sue"], [121, 123, "Movement:Transport"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"], [84, 88, "Movement:Transport"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"], [35, 39, "Contact:Meet"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"], [78, 82, "Movement:Transport"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[61, 68, "Contact:Meet"], [224, 227, "Transaction:Transfer-Money"], [0, 3, "Justice:Sue"], [85, 95, "Contact:Meet"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[12, 18, "Personnel:End-Position"], [0, 4, "Justice:Sue"], [51, 57, "Contact:Meet"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[11, 18, "Contact:Meet"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[146, 155, "Personnel:Start-Position"], [0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": []}
+{"annotations": [[0, 7, "Justice:Sue"]]}
+{"annotations": [[83, 89, "Life:Die"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[57, 64, "Justice:Appeal"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 7, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"], [91, 97, "Justice:Appeal"]]}
+{"annotations": [[0, 3, "Justice:Sue"], [4, 11, "Justice:Appeal"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 8, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": []}
+{"annotations": [[15, 20, "Personnel:Elect"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 8, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 8, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"], [62, 66, "Life:Die"]]}
+{"annotations": [[45, 51, "Life:Die"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 9, "Justice:Sue"]]}
+{"annotations": [[0, 8, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 9, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[20, 27, "Movement:Transport"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 7, "Justice:Sue"]]}
+{"annotations": [[0, 7, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 8, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[24, 34, "Business:Declare-Bankruptcy"], [0, 7, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 8, "Justice:Sue"]]}
+{"annotations": [[0, 7, "Justice:Sue"]]}
+{"annotations": [[0, 13, "Justice:Sue"]]}
+{"annotations": [[40, 49, "Conflict:Attack"], [56, 59, "Conflict:Attack"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": [[20, 26, "Conflict:Attack"], [0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"], [74, 90, "Conflict:Attack"]]}
+{"annotations": [[54, 61, "Conflict:Attack"], [0, 2, "Justice:Sue"], [62, 68, "Life:Die"]]}
+{"annotations": [[21, 29, "Justice:Arrest-Jail"], [151, 158, "Conflict:Attack"], [0, 2, "Justice:Sue"]]}
+{"annotations": []}
+{"annotations": [[0, 8, "Justice:Sue"]]}
+{"annotations": [[0, 9, "Justice:Sue"]]}
+{"annotations": [[0, 9, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 8, "Justice:Sue"]]}
+{"annotations": [[0, 8, "Justice:Sue"]]}
+{"annotations": [[0, 9, "Justice:Sue"], [99, 106, "Conflict:Attack"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"], [148, 154, "Personnel:End-Position"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[105, 112, "Conflict:Attack"], [159, 166, "Conflict:Attack"], [0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 8, "Justice:Sue"]]}
+{"annotations": [[55, 62, "Conflict:Attack"], [68, 74, "Life:Die"], [0, 2, "Justice:Sue"], [38, 44, "Justice:Arrest-Jail"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 8, "Justice:Sue"], [104, 108, "Personnel:Nominate"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": []}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[14, 18, "Contact:Phone-Write"], [0, 3, "Justice:Sue"], [35, 43, "Justice:Sue"]]}
+{"annotations": [[0, 7, "Justice:Sue"], [22, 26, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 7, "Justice:Sue"]]}
+{"annotations": [[61, 68, "Transaction:Transfer-Money"], [0, 2, "Justice:Sue"], [28, 32, "Justice:Sue"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": [[0, 9, "Justice:Sue"], [0, 9, "Justice:Convict"]]}
+{"annotations": [[67, 74, "Justice:Arrest-Jail"], [0, 6, "Justice:Sue"]]}
+{"annotations": [[31, 36, "Justice:Trial-Hearing"], [0, 6, "Justice:Sue"]]}
+{"annotations": [[7, 16, "Justice:Sentence"], [0, 2, "Justice:Sue"], [49, 55, "Justice:Arrest-Jail"], [40, 45, "Justice:Sentence"]]}
+{"annotations": [[1, 5, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[39, 43, "Personnel:End-Position"], [0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 7, "Justice:Sue"]]}
+{"annotations": [[0, 7, "Justice:Sue"]]}
+{"annotations": [[0, 7, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 11, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 7, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[75, 82, "Life:Injure"], [51, 57, "Life:Die"], [31, 38, "Justice:Sue"], [98, 117, "Life:Die"], [0, 5, "Justice:Sue"], [187, 194, "Life:Die"], [126, 128, "Life:Die"]]}
+{"annotations": [[0, 7, "Justice:Sue"], [111, 116, "Personnel:End-Position"]]}
+{"annotations": [[145, 152, "Life:Injure"], [0, 11, "Justice:Sue"], [68, 74, "Life:Die"], [128, 132, "Personnel:End-Position"]]}
+{"annotations": [[50, 53, "Conflict:Attack"], [0, 1, "Justice:Sue"], [115, 125, "Life:Injure"]]}
+{"annotations": [[42, 48, "Life:Die"], [0, 3, "Justice:Sue"], [66, 73, "Life:Die"], [126, 133, "Life:Die"]]}
+{"annotations": [[47, 51, "Life:Die"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[35, 45, "Movement:Transport"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[10, 17, "Life:Injure"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[184, 190, "Conflict:Attack"], [120, 128, "Contact:Meet"], [0, 6, "Justice:Sue"], [179, 183, "Life:Die"], [153, 160, "Contact:Meet"]]}
+{"annotations": [[112, 115, "Conflict:Attack"], [0, 7, "Justice:Sue"]]}
+{"annotations": [[116, 122, "Personnel:Nominate"], [16, 30, "Life:Die"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[124, 131, "Life:Die"], [73, 79, "Contact:Phone-Write"], [132, 138, "Conflict:Attack"], [0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 7, "Justice:Sue"]]}
+{"annotations": [[81, 89, "Justice:Arrest-Jail"], [0, 7, "Justice:Sue"], [129, 136, "Life:Die"]]}
+{"annotations": [[91, 96, "Conflict:Attack"], [0, 7, "Justice:Sue"]]}
+{"annotations": [[144, 149, "Life:Die"], [44, 50, "Conflict:Attack"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[16, 23, "Conflict:Attack"], [60, 66, "Conflict:Attack"], [0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"], [36, 42, "Conflict:Attack"], [161, 167, "Life:Die"]]}
+{"annotations": [[22, 28, "Conflict:Attack"], [0, 2, "Justice:Sue"], [104, 113, "Personnel:Start-Position"], [17, 21, "Life:Die"]]}
+{"annotations": [[15, 21, "Conflict:Attack"], [39, 73, "Life:Die"], [95, 102, "Life:Die"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[65, 70, "Conflict:Attack"], [0, 7, "Justice:Sue"], [85, 91, "Conflict:Attack"], [58, 64, "Life:Die"], [159, 168, "Conflict:Attack"]]}
+{"annotations": [[94, 101, "Conflict:Attack"], [0, 2, "Justice:Sue"], [125, 133, "Conflict:Attack"]]}
+{"annotations": [[149, 159, "Conflict:Attack"], [43, 49, "Conflict:Attack"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[61, 67, "Conflict:Attack"], [0, 2, "Justice:Sue"], [152, 158, "Life:Die"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[8, 14, "Conflict:Attack"], [0, 3, "Justice:Sue"], [172, 188, "Life:Die"]]}
+{"annotations": [[28, 35, "Conflict:Attack"], [139, 146, "Contact:Meet"], [69, 76, "Justice:Charge-Indict"], [87, 93, "Justice:Trial-Hearing"], [0, 5, "Justice:Sue"], [127, 135, "Contact:Meet"]]}
+{"annotations": [[0, 11, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"], [70, 76, "Life:Die"]]}
+{"annotations": [[0, 3, "Justice:Sue"], [31, 35, "Conflict:Attack"], [36, 40, "Life:Die"]]}
+{"annotations": [[127, 134, "Personnel:End-Position"], [0, 2, "Justice:Sue"], [93, 100, "Life:Injure"]]}
+{"annotations": [[0, 6, "Justice:Sue"]]}
+{"annotations": [[185, 188, "Conflict:Attack"], [0, 7, "Justice:Sue"]]}
+{"annotations": [[14, 19, "Contact:Meet"], [121, 124, "Conflict:Attack"], [0, 4, "Justice:Sue"]]}
+{"annotations": [[123, 126, "Conflict:Attack"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"]]}
+{"annotations": [[132, 135, "Conflict:Attack"], [5, 9, "Contact:Meet"], [0, 4, "Justice:Sue"]]}
+{"annotations": [[199, 204, "Contact:Meet"], [0, 7, "Justice:Sue"]]}
+{"annotations": [[128, 133, "Contact:Meet"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[36, 40, "Personnel:Elect"], [221, 225, "Personnel:Elect"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[14, 21, "Contact:Meet"], [204, 208, "Personnel:Elect"], [0, 1, "Justice:Sue"], [157, 161, "Personnel:Elect"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[84, 89, "Personnel:Nominate"], [11, 20, "Justice:Sue"], [0, 10, "Justice:Sue"]]}
+{"annotations": [[117, 120, "Conflict:Attack"], [0, 6, "Justice:Sue"]]}
+{"annotations": [[49, 52, "Conflict:Attack"], [0, 6, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[105, 109, "Personnel:Elect"], [123, 126, "Conflict:Attack"], [0, 7, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[71, 77, "Conflict:Attack"], [191, 194, "Conflict:Attack"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 9, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"], [135, 141, "Personnel:End-Position"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[92, 95, "Transaction:Transfer-Money"], [118, 124, "Transaction:Transfer-Money"]]}
+{"annotations": [[4, 11, "Transaction:Transfer-Money"], [63, 68, "Justice:Sue"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[81, 84, "Transaction:Transfer-Money"], [0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"], [66, 71, "Justice:Sue"]]}
+{"annotations": [[0, 14, "Justice:Sue"], [22, 28, "Transaction:Transfer-Ownership"]]}
+{"annotations": [[0, 14, "Justice:Sue"]]}
+{"annotations": [[35, 44, "Justice:Convict"], [30, 34, "Justice:Trial-Hearing"], [76, 82, "Personnel:End-Position"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[56, 60, "Justice:Sentence"], [39, 48, "Justice:Sentence"], [64, 70, "Justice:Sentence"], [0, 4, "Justice:Sue"], [96, 100, "Justice:Sentence"]]}
+{"annotations": [[0, 8, "Justice:Sue"], [19, 29, "Justice:Charge-Indict"]]}
+{"annotations": [[0, 8, "Justice:Sue"]]}
+{"annotations": [[77, 83, "Justice:Charge-Indict"], [0, 7, "Justice:Sue"]]}
+{"annotations": [[26, 34, "Transaction:Transfer-Money"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 10, "Justice:Sue"]]}
+{"annotations": [[123, 132, "Contact:Meet"], [0, 9, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[33, 51, "Movement:Transport"], [164, 169, "Movement:Transport"], [0, 3, "Justice:Sue"], [78, 86, "Movement:Transport"], [20, 24, "Contact:Meet"]]}
+{"annotations": [[4, 7, "Conflict:Attack"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 10, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[242, 249, "Conflict:Attack"], [0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 8, "Justice:Sue"], [45, 48, "Conflict:Attack"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[34, 37, "Conflict:Attack"], [0, 5, "Justice:Sue"], [39, 47, "Justice:Sue"]]}
+{"annotations": [[0, 9, "Justice:Sue"], [16, 23, "Movement:Transport"], [69, 74, "Contact:Meet"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 7, "Justice:Sue"]]}
+{"annotations": [[43, 46, "Conflict:Attack"], [0, 4, "Justice:Sue"]]}
+{"annotations": [[223, 231, "Personnel:Elect"], [0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[128, 136, "Personnel:Elect"], [0, 4, "Justice:Sue"], [5, 14, "Justice:Sue"]]}
+{"annotations": [[0, 10, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 6, "Justice:Sue"], [131, 136, "Movement:Transport"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 9, "Justice:Sue"]]}
+{"annotations": [[120, 124, "Transaction:Transfer-Money"], [0, 3, "Justice:Sue"]]}
+{"annotations": []}
+{"annotations": []}
+{"annotations": [[0, 7, "Justice:Sue"]]}
+{"annotations": [[25, 34, "Life:Die"], [0, 9, "Justice:Sue"], [74, 79, "Life:Die"], [103, 111, "Justice:Appeal"], [42, 50, "Justice:Convict"]]}
+{"annotations": [[71, 78, "Justice:Appeal"], [0, 1, "Justice:Sue"], [7, 14, "Justice:Arrest-Jail"]]}
+{"annotations": [[78, 86, "Justice:Convict"], [18, 26, "Personnel:End-Position"], [0, 3, "Justice:Sue"], [35, 42, "Justice:Appeal"]]}
+{"annotations": [[37, 43, "Justice:Appeal"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[0, 9, "Justice:Sue"], [88, 97, "Justice:Sentence"]]}
+{"annotations": [[0, 4, "Justice:Sue"], [29, 38, "Justice:Convict"], [42, 49, "Life:Die"]]}
+{"annotations": [[40, 45, "Life:Die"], [0, 1, "Justice:Sue"], [32, 36, "Life:Die"], [8, 15, "Contact:Meet"]]}
+{"annotations": [[36, 42, "Justice:Appeal"], [2, 9, "Justice:Convict"], [0, 1, "Justice:Sue"], [108, 124, "Justice:Sentence"]]}
+{"annotations": [[17, 26, "Justice:Convict"], [30, 36, "Life:Die"], [61, 64, "Justice:Sentence"], [0, 5, "Justice:Sue"], [55, 60, "Life:Die"]]}
+{"annotations": [[47, 63, "Justice:Sentence"], [75, 80, "Life:Die"], [0, 10, "Justice:Sue"]]}
+{"annotations": [[0, 9, "Justice:Sue"]]}
+{"annotations": [[70, 79, "Justice:Convict"], [61, 66, "Life:Die"], [137, 142, "Life:Die"], [143, 150, "Justice:Fine"], [207, 218, "Justice:Sentence"], [0, 7, "Justice:Sue"], [26, 34, "Justice:Appeal"]]}
+{"annotations": [[0, 7, "Justice:Sue"], [20, 25, "Life:Die"], [26, 33, "Justice:Fine"]]}
+{"annotations": [[126, 132, "Life:Die"], [0, 3, "Justice:Sue"], [111, 120, "Justice:Convict"], [62, 71, "Life:Die"], [17, 24, "Justice:Fine"], [11, 16, "Life:Die"]]}
+{"annotations": [[17, 26, "Justice:Sentence"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[35, 42, "Justice:Sentence"], [0, 1, "Justice:Sue"], [9, 15, "Personnel:End-Position"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}
+{"annotations": [[0, 4, "Justice:Sue"], [112, 119, "Conflict:Attack"], [81, 94, "Conflict:Demonstrate"]]}
+{"annotations": [[80, 87, "Conflict:Attack"], [0, 7, "Justice:Sue"]]}
+{"annotations": [[0, 8, "Conflict:Demonstrate"]]}
+{"annotations": [[55, 58, "Conflict:Attack"], [0, 7, "Justice:Sue"], [34, 42, "Conflict:Demonstrate"]]}
+{"annotations": [[0, 12, "Justice:Sue"]]}
+{"annotations": [[0, 16, "Justice:Sue"]]}
+{"annotations": [[0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 8, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[187, 190, "Conflict:Attack"], [0, 1, "Justice:Sue"], [250, 256, "Life:Die"]]}
+{"annotations": [[74, 81, "Conflict:Attack"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[65, 68, "Conflict:Attack"], [33, 36, "Conflict:Attack"], [0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 1, "Justice:Sue"]]}
+{"annotations": [[78, 85, "Conflict:Attack"], [43, 46, "Conflict:Attack"], [0, 1, "Justice:Sue"]]}
+{"annotations": [[86, 89, "Conflict:Attack"], [64, 67, "Conflict:Attack"], [0, 3, "Justice:Sue"], [188, 191, "Conflict:Attack"]]}
+{"annotations": [[75, 78, "Conflict:Attack"], [0, 1, "Justice:Sue"], [46, 49, "Conflict:Attack"]]}
+{"annotations": [[4, 7, "Conflict:Attack"], [0, 3, "Justice:Sue"]]}
+{"annotations": [[80, 83, "Conflict:Attack"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[37, 40, "Conflict:Attack"], [0, 1, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"], [21, 28, "Justice:Charge-Indict"]]}
+{"annotations": [[28, 41, "Conflict:Demonstrate"], [117, 130, "Conflict:Demonstrate"], [0, 2, "Justice:Sue"], [75, 82, "Life:Injure"]]}
+{"annotations": [[33, 43, "Conflict:Demonstrate"], [0, 4, "Conflict:Demonstrate"], [118, 125, "Conflict:Demonstrate"], [0, 4, "Justice:Sue"]]}
+{"annotations": [[129, 138, "Personnel:End-Position"], [28, 36, "Conflict:Demonstrate"], [0, 4, "Justice:Sue"]]}
+{"annotations": [[0, 14, "Conflict:Demonstrate"]]}
+{"annotations": [[16, 26, "Conflict:Demonstrate"], [3, 8, "Justice:Sue"], [167, 175, "Conflict:Demonstrate"], [0, 2, "Justice:Sue"], [32, 44, "Justice:Arrest-Jail"], [150, 154, "Conflict:Demonstrate"]]}
+{"annotations": [[33, 41, "Conflict:Demonstrate"], [145, 158, "Life:Die"], [0, 2, "Justice:Sue"]]}
+{"annotations": [[0, 5, "Justice:Sue"]]}

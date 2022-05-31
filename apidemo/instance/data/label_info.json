@@ -1,0 +1,1018 @@
+{
+    "Movement:Transport": {
+        "definition": "an artifact (weapon or vehicle) or a person is moved from one place to another",
+        "id": 2,
+        "seed_keywords": [
+            "arrive",
+            "deploy",
+            "head",
+            "leave",
+            "move",
+            "retreat",
+            "return",
+            "ship",
+            "transport",
+            "travel",
+            "visit",
+            "flee"
+        ],
+        "expanded_keywords": [
+            "arrive",
+            "carry",
+            "cruise",
+            "deploy",
+            "head",
+            "journey",
+            "leave",
+            "leaving",
+            "move",
+            "moved",
+            "moves",
+            "moving",
+            "remove",
+            "retreat",
+            "return",
+            "shift",
+            "ship",
+            "tour",
+            "transition",
+            "transport",
+            "travel",
+            "trip",
+            "visit",
+            "visited",
+            "visiting",
+            "visitor",
+            "visits"
+        ],
+        "roles": [
+            "Agent",
+            "Artifact",
+            "Destination",
+            "Origin",
+            "Vehicle"
+        ],
+        "template": [
+            "<Agent> transported <Artifact>",
+            "in <Vehicle>",
+            "from <Place> to <Destination> place"
+        ]
+    },
+    "Personnel:Elect": {
+        "definition": "a candidate wins an election designed to determine a position for an organization or government",
+        "id": 5,
+        "seed_keywords": [
+            "elect",
+            "election",
+            "vote"
+        ],
+        "expanded_keywords": [
+            "elect",
+            "election",
+            "elections",
+            "electoral",
+            "poll",
+            "vote",
+            "voter",
+            "voters",
+            "votes",
+            "voting"
+        ],
+        "roles": [
+            "Entity",
+            "Person",
+            "Place"
+        ],
+        "template": [
+            "<Entity> elected <Person>",
+            "in <Place>"
+        ]
+    },
+    "Personnel:Start-Position": {
+        "definition": "a person begins working for (or changes offices within) an organization or government",
+        "id": 13,
+        "seed_keywords": [
+            "appoint",
+            "employ",
+            "hire"
+        ],
+        "expanded_keywords": [
+            "start office",
+            "appoint",
+            "hire", 
+            "take over",
+            "succeed",
+            "become"
+        ],
+        "roles": [
+            "Entity",
+            "Person",
+            "Place"
+        ],
+        "template": [
+            "<Person> started working at <Entity>",
+            "in <Place>"
+        ]
+    },
+    "Personnel:Nominate": {
+        "definition": "a person is proposed for a job or position in an organization or government by the appropriate person, through official channels",
+        "id": 28,
+        "seed_keywords": [
+            "name",
+            "nominate"
+        ],
+        "expanded_keywords": [
+            "name",
+            "nominate"
+        ],
+        "roles": [
+            "Agent",
+            "Person"
+        ],
+        "template": [
+            "<Agent> nominated <Person>"
+        ]
+    },
+    "Personnel:End-Position": {
+        "definition": " a person stops working for (or changes offices within) an organization or government",
+        "id": 6,
+        "seed_keywords": [
+            "dismiss",
+            "fire",
+            "former",
+            "resign",
+            "retire"
+        ],
+        "expanded_keywords": [
+            "defunct",
+            "deposed",
+            "dismiss",
+            "fire",
+            "former",
+            "formerly",
+            "late",
+            "ousted",
+            "previous",
+            "resign",
+            "resigned",
+            "retire",
+            "retiring",
+            "layoff",
+            "retired",
+            "fire",
+            "retire",
+            "sack",
+            "succeed",
+            "lay off"
+        ],
+        "roles": [
+            "Entity",
+            "Person",
+            "Place"
+        ],
+        "template": [
+            "<Person> stopped working at <Entity>",
+            "in <Place>"
+        ]
+    },
+    "Conflict:Attack": {
+        "definition": "a violent physical act causing harm or damage",
+        "id": 1,
+        "seed_keywords": [
+            "attack",
+            "explode",
+            "invade",
+            "shoot",
+            "terrorism",
+            "war"
+        ],
+        "expanded_keywords": [
+            "attack",
+            "attacks",
+            "battle",
+            "battles",
+            "coalition",
+            "combat",
+            "conflict",
+            "conflicts",
+            "explode",
+            "fighting",
+            "fought",
+            "hostilities",
+            "invade",
+            "invasion",
+            "operations",
+            "pound",
+            "shoot",
+            "surge",
+            "terrorism",
+            "violence",
+            "war",
+            "warfare",
+            "wars",
+            "coup",
+            "firing",
+            "shot",
+            "battle",
+            "bomb",
+            "bombing",
+            "blow",
+            "attack",
+            "terrorism",
+            "terrorist activity",
+            "war",
+            "conflict",
+            "explosion",
+            "clash",
+            "stab",
+            "throw",
+            "shoot",
+            "violence",
+            "fighting",
+            "explode",
+            "go off",
+            "gunfire"
+        ],
+        "roles": [
+            "Attacker",
+            "Instrument",
+            "Place",
+            "Target",
+            "Victim"
+        ],
+        "template": [
+            "<Attacker> attacked <Target>",
+            "hurting <Victim>",
+            "using <Instrument>",
+            "at <Place>"
+        ]
+    },
+    "Contact:Meet": {
+        "definition": "two or more entities come together at a single location and interact with one another face-to-face",
+        "id": 4,
+        "seed_keywords": [
+            "meet",
+            "meeting",
+            "summit",
+            "talk"
+        ],
+        "expanded_keywords": [
+            "conferences",
+            "consultation",
+            "dialogue",
+            "dialogues",
+            "meet",
+            "meeting",
+            "meetings",
+            "meets",
+            "negotiations",
+            "seminar",
+            "summit",
+            "talk",
+            "talks"
+        ],
+        "roles": [
+            "Entity",
+            "Entity",
+            "Place"
+        ],
+        "template": [
+            "<Entity> met with <Entity>",
+            "in <Place>"
+        ]
+    },
+    "Life:Marry": {
+        "definition": "two people are married under the legal definition",
+        "id": 19,
+        "seed_keywords": [
+            "marry",
+            "spouse",
+            "wed"
+        ],
+        "expanded_keywords": [
+            "marriages",
+            "marries",
+            "marry",
+            "marrying",
+            "spouse",
+            "wed",
+            "wedding",
+            "weddings"
+        ],
+        "roles": [
+            "Person",
+            "Person",
+            "Place"
+        ],
+        "template": [
+            "<Person> married <Person>",
+            "in <Place>"
+        ]
+    },
+    "Transaction:Transfer-Money": {
+        "definition": "the giving, receiving, borrowing, or lending money when it is not in the context of purchasing something",
+        "id": 7,
+        "seed_keywords": [
+            "borrow",
+            "compensate",
+            "donate",
+            "lend",
+            "pay",
+            "transfer"
+        ],
+        "expanded_keywords": [
+            "borrow",
+            "compensate",
+            "donate",
+            "lend",
+            "pay",
+            "pays",
+            "spend",
+            "transfer",
+            "give", 
+            "pay", 
+            "lend", 
+            "borrow", 
+            "donation",
+            "aid",
+            "donate"
+        ],
+        "roles": [
+            "Beneficiary",
+            "Giver",
+            "Place",
+            "Recipient"
+        ],
+        "template": [
+            "<Giver> gave money to <Recipient>",
+            "for the benefit of <Beneficiary>",
+            "in <Place>"
+        ]
+    },
+    "Conflict:Demonstrate": {
+        "definition": "a large number of people come together in a public area to protest or demand some sort of official action, including, but are not limited to, protests, sit-ins, strikes, and riots.",
+        "id": 16,
+        "seed_keywords": [
+            "demonstrate",
+            "protest",
+            "rally",
+            "riot"
+        ],
+        "expanded_keywords": [
+            "demonstrate",
+            "demonstrated",
+            "demonstrates",
+            "demonstrating",
+            "demonstration",
+            "demonstrations",
+            "demonstrators",
+            "marche",
+            "protest",
+            "protesting",
+            "protests",
+            "rally",
+            "riot",
+            "strike",
+            "demonstrate",
+            "walkout"
+        ],
+        "roles": [
+            "Entity",
+            "Place"
+        ],
+        "template": [
+            "<Entity> demonstrated",
+            "at <Place>"
+        ]
+    },
+    "Business:End-Org": {
+        "definition": "an ORGANIZATION ceases to exist (in other words \u2018goes out of business\u2019)",
+        "id": 23,
+        "seed_keywords": [
+            "collapse",
+            "demise",
+            "failure",
+            "fold",
+            "shut",
+            "shut down"
+        ],
+        "expanded_keywords": [
+            "collapse",
+            "demise",
+            "failure",
+            "fold",
+            "shut"
+        ],
+        "roles": [
+            "Organization",
+            "Place"
+        ],
+        "template": [
+            "<Organization> shut down",
+            "at <Place>"
+        ]
+    },
+    "Justice:Sue": {
+        "definition": "a court proceeding has been initiated for the purposes of determining the liability of a person, organization accused of committing a crime or neglecting a commitment",
+        "id": 17,
+        "seed_keywords": [
+            "lawsuit",
+            "sue"
+        ],
+        "expanded_keywords": [
+            "lawsuit",
+            "sue"
+        ],
+        "roles": [
+            "Adjudicator",
+            "Defendant",
+            "Place",
+            "Plaintiff"
+        ],
+        "template": [
+            "<Plaintiff> sued <Defendant>",
+            "before <Adjudicator>",
+            "in <Place>"
+        ]
+    },
+    "Life:Injure": {
+        "definition": "a person experiences physical harm",
+        "id": 8,
+        "seed_keywords": [
+            "hurt",
+            "injure",
+            "wound"
+        ],
+        "expanded_keywords": [
+            "harm",
+            "harmed",
+            "hit",
+            "hurt",
+            "hurting",
+            "hurts",
+            "injure",
+            "injured",
+            "weakened",
+            "wound",
+            "wounded"
+        ],
+        "roles": [
+            "Agent",
+            "Instrument",
+            "Place",
+            "Victim"
+        ],
+        "template": [
+            "<Agent> injured <Victim>",
+            "with <Instrument>",
+            "in <Place>"
+        ]
+    },
+    "Life:Die": {
+        "definition": "the life of a person ends",
+        "id": 3,
+        "seed_keywords": [
+            "assasinate",
+            "death",
+            "die",
+            "kill",
+            "suicide"
+        ],
+        "expanded_keywords": [
+            "assasinate",
+            "death",
+            "deaths",
+            "die",
+            "dies",
+            "dying",
+            "fatal",
+            "hanged",
+            "hanging",
+            "kill",
+            "killed",
+            "killing",
+            "kills",
+            "murder",
+            "murdered",
+            "slaughter",
+            "stabbed",
+            "suicide",
+            "survive",
+            "death",
+            "dying",
+            "slay",
+            "die",
+            "assassination",
+            "dead",
+            "suicide",
+            "kill",
+            "murder",
+            "assassinate",
+            "fatal",
+            "deceased"
+        ],
+        "roles": [
+            "Agent",
+            "Instrument",
+            "Place",
+            "Victim"
+        ],
+        "template": [
+            "<Agent> killed <Victim>",
+            "with <Instrument>",
+            "in <Place>"
+        ]
+    },
+    "Justice:Arrest-Jail": {
+        "definition": "the movement of a person is constrained by a state actor, or a state actor takes official custody of a person for the purposes of evaluating legal liability in a criminal activity",
+        "id": 15,
+        "seed_keywords": [
+            "arrest",
+            "imprison",
+            "jail",
+            "incarcerate", 
+            "custody"
+        ],
+        "expanded_keywords": [
+            "arrest",
+            "detained",
+            "imprison",
+            "jail"
+        ],
+        "roles": [
+            "Agent",
+            "Person",
+            "Place"
+        ],
+        "template": [
+            "<Agent> arrested <Person>",
+            "in <Place>"
+        ]
+    },
+    "Contact:Phone-Write": {
+        "definition": "two or more people directly engage in discussion which does not take place face-to-face",
+        "id": 9,
+        "seed_keywords": [
+            "call",
+            "correspondence",
+            "letter",
+            "mail",
+            "telephone"
+        ],
+        "expanded_keywords": [
+            "cable",
+            "call",
+            "calling",
+            "calls",
+            "correspondence",
+            "dial",
+            "email",
+            "letter",
+            "letters",
+            "mail",
+            "phone",
+            "telegram",
+            "telegraph",
+            "telephone",
+            "video"
+        ],
+        "roles": [
+            "Entity",
+            "Entity",
+            "Place"
+        ],
+        "template": [
+            "<Entity> communicated remotely with <Entity>",
+            "at <Place>"
+        ]
+    },
+    "Transaction:Transfer-Ownership": {
+        "definition": "the buying, selling, loaning, borrowing, giving, or receiving of artifacts or organizations",
+        "id": 12,
+        "seed_keywords": [
+            "acquire",
+            "buy",
+            "purchase"
+        ],
+        "expanded_keywords": [
+            "acquire",
+            "acquired",
+            "acquiring",
+            "acquisition",
+            "acquisitions",
+            "bought",
+            "buy",
+            "buying",
+            "buys",
+            "obtain",
+            "purchase",
+            "purchased",
+            "purchases",
+            "purchasing",
+            "takeover"
+        ],
+        "roles": [
+            "Artifact",
+            "Beneficiary",
+            "Buyer",
+            "Place",
+            "Seller"
+        ],
+        "template": [
+            "<Seller> gave <Artifact> to <Buyer>",
+            "for the benefit of <Beneficiary>",
+            "at <Place>"
+        ]
+    },
+    "Business:Start-Org": {
+        "definition": "a new organization is created",
+        "id": 25,
+        "seed_keywords": [
+            "establish",
+            "initiate",
+            "launch"
+        ],
+        "expanded_keywords": [
+            "created",
+            "establish",
+            "established",
+            "establishing",
+            "founded",
+            "initiate",
+            "initiated",
+            "launch",
+            "launches",
+            "launching"
+        ],
+        "roles": [
+            "Agent",
+            "Organization",
+            "Place"
+        ],
+        "template": [
+            "<Agent> started <Organization>",
+            "at <Place>"
+        ]
+    },
+    "Justice:Execute": {
+        "definition": "the life of a PERSON is taken by a state actor",
+        "id": 26,
+        "seed_keywords": [
+            "execute",
+            "execution"
+        ],
+        "expanded_keywords": [
+            "execute",
+            "execution"
+        ],
+        "roles": [
+            "Agent",
+            "Person",
+            "Place"
+        ],
+        "template": [
+            "<Agent> executed <Person>",
+            "at <Place>"
+        ]
+    },
+    "Justice:Trial-Hearing": {
+        "definition": "a court proceeding has been initiated for the purposes of determining the guilt or innocence of a person, organization accused of committing a crime, or a state actor officially gathers to discuss some criminal legal matter",
+        "id": 11,
+        "seed_keywords": [
+            "hearing",
+            "testify",
+            "trial",
+            "tried",
+            "court proceeding"
+        ],
+        "expanded_keywords": [
+            "hearing",
+            "hearings",
+            "testify",
+            "trial",
+            "trials",
+            "tried"
+        ],
+        "roles": [
+            "Adjudicator",
+            "Defendant",
+            "Place",
+            "Prosecutor"
+        ],
+        "template": [
+            "<Prosecutor> tried <Defendant>",
+            "before <Adjudicator>",
+            "in <Place>"
+        ]
+    },
+    "Life:Be-Born": {
+        "definition": "a person is given birth to.",
+        "id": 21,
+        "seed_keywords": [
+            "birth",
+            "born"
+        ],
+        "expanded_keywords": [
+            "birth",
+            "births",
+            "born",
+            "newborn"
+        ],
+        "roles": [
+            "Person",
+            "Place"
+        ],
+        "template": [
+            "<Person> was born",
+            "in <Place>"
+        ]
+    },
+    "Justice:Charge-Indict": {
+        "definition": "a person or organization is accused of a crime by a state actor, or a state actor takes official legal action to follow up on an accusation",
+        "id": 10,
+        "seed_keywords": [
+            "accusation",
+            "accuse",
+            "charge",
+            "indict"
+        ],
+        "expanded_keywords": [
+            "accusation",
+            "accusations",
+            "accuse",
+            "charge",
+            "indict",
+            "indicted",
+            "indictment"
+        ],
+        "roles": [
+            "Adjudicator",
+            "Defendant",
+            "Place",
+            "Prosecutor"
+        ],
+        "template": [
+            "<Prosecutor> charged or indicted <Defendant>",
+            "before <Adjudicator>",
+            "in <Place>"
+        ]
+    },
+    "Justice:Convict": {
+        "definition": "a person or organization has been found guilty of a crime",
+        "id": 18,
+        "seed_keywords": [
+            "convict"
+        ],
+        "expanded_keywords": [
+            "convict",
+            "convicts"
+        ],
+        "roles": [
+            "Adjudicator",
+            "Defendant",
+            "Place"
+        ],
+        "template": [
+            "<Adjudicator> convicted <Defendant>",
+            "in <Place>"
+        ]
+    },
+    "Justice:Sentence": {
+        "definition": "the punishment (particularly incarceration) for the defendent of a trial is issued by a state actor",
+        "id": 14,
+        "seed_keywords": [
+            "sentence"
+        ],
+        "expanded_keywords": [
+            "sentence",
+            "sentences"
+        ],
+        "roles": [
+            "Adjudicator",
+            "Defendant",
+            "Place"
+        ],
+        "template": [
+            "<Adjudicator> sentenced <Defendant>",
+            "in <Place>"
+        ]
+    },
+    "Business:Declare-Bankruptcy": {
+        "definition": "an Entity officially requests legal protection from debt collection due to an extremely negative balance sheet",
+        "id": 22,
+        "seed_keywords": [
+            "bankrupt",
+            "bankruptcy",
+            "broke"
+        ],
+        "expanded_keywords": [
+            "bankrupt",
+            "bankruptcy",
+            "broke",
+            "broken"
+        ],
+        "roles": [
+            "Organization",
+            "Place"
+        ],
+        "template": [
+            "<Organization> declared bankruptcy",
+            "at <Place>"
+        ]
+    },
+    "Justice:Release-Parole": {
+        "definition": "a state actor ends its custody of a person",
+        "id": 20,
+        "seed_keywords": [
+            "free",
+            "parole",
+            "release"
+        ],
+        "expanded_keywords": [
+            "free",
+            "parole",
+            "release",
+            "released",
+            "releases",
+            "releasing"
+        ],
+        "roles": [
+            "Entity",
+            "Person",
+            "Place"
+        ],
+        "template": [
+            "<Entity> released or paroled <Person>",
+            "in <Place>"
+        ]
+    },
+    "Justice:Fine": {
+        "definition": "a state actor issues a financial punishment to a person or organization, typically as a result of court proceedings",
+        "id": 27,
+        "seed_keywords": [
+            "fee",
+            "fine",
+            "forfeit",
+            "penalize",
+            "penalty"
+        ],
+        "expanded_keywords": [
+            "fee",
+            "fine",
+            "forfeit",
+            "penalize",
+            "penalty"
+        ],
+        "roles": [
+            "Adjudicator",
+            "Entity",
+            "Place"
+        ],
+        "template": [
+            "<Adjudicator> fined <Entity>",
+            "at <Place>"
+        ]
+    },
+    "Justice:Pardon": {
+        "definition": "a head-of-state or their appointed representative lifts a sentence imposed by the judiciary",
+        "id": 33,
+        "seed_keywords": [
+            "amnesty",
+            "forgive",
+            "forgiveness",
+            "mercy",
+            "pardon"
+        ],
+        "expanded_keywords": [
+            "amnesty",
+            "forgive",
+            "forgiven",
+            "forgiveness",
+            "mercy",
+            "pardon"
+        ],
+        "roles": [
+            "Adjudicator",
+            "Defendant",
+            "Place"
+        ],
+        "template": [
+            "<Adjudicator> pardoned <Defendant>",
+            "at <Place>"
+        ]
+    },
+    "Justice:Appeal": {
+        "definition": "the decision of a court is taken to a higher court for review",
+        "id": 24,
+        "seed_keywords": [
+            "appeal",
+            "retrial"
+        ],
+        "expanded_keywords": [
+            "appeal",
+            "appealing",
+            "appeals",
+            "retrial"
+        ],
+        "roles": [
+            "Adjudicator",
+            "Place",
+            "Plaintiff"
+        ],
+        "template": [
+            "<Plaintiff> appealed to <Adjudicator>",
+            "at <Place>"
+        ]
+    },
+    "Justice:Extradite": {
+        "definition": "a person is sent by a state actor from one place to another place for the purposes of legal proceedings there",
+        "id": 31,
+        "seed_keywords": [
+            "deport",
+            "expel",
+            "extradiction",
+            "extradite"
+        ],
+        "expanded_keywords": [
+            "deport",
+            "expel",
+            "extradiction",
+            "extradite"
+        ],
+        "roles": [
+            "Agent",
+            "Destination",
+            "Origin",
+            "Person"
+        ],
+        "template": [
+            "<Agent> extradited <Person>",
+            "from <Origin> to <Destination>"
+        ]
+    },
+    "Life:Divorce": {
+        "definition": "two people are officially divorced under the legal definition of divorce",
+        "id": 30,
+        "seed_keywords": [
+            "dissolution",
+            "divorce",
+            "split"
+        ],
+        "expanded_keywords": [
+            "dissolution",
+            "divorce",
+            "split"
+        ],
+        "roles": [
+            "Person",
+            "Person",
+            "Place"
+        ],
+        "template": [
+            "<Person> divorced <Person>",
+            "in <Place>"
+        ]
+    },
+    "Business:Merge-Org": {
+        "definition": "two or more organization come together to form a new organization",
+        "id": 29,
+        "seed_keywords": [
+            "merge",
+            "merger"
+        ],
+        "expanded_keywords": [
+            "merge",
+            "merger"
+        ],
+        "roles": [
+            "Organization",
+            "Organization"
+        ],
+        "template": [
+            "<Organization> merged with <Organization>"
+        ]
+    },
+    "Justice:Acquit": {
+        "definition": "a trial ends but fails to produce a conviction",
+        "id": 32,
+        "seed_keywords": [
+            "absolve",
+            "acquit",
+            "acquittal",
+            "acquittance"
+        ],
+        "expanded_keywords": [
+            "absolve",
+            "acquit",
+            "acquittal",
+            "acquittance"
+        ],
+        "roles": [
+            "Adjudicator",
+            "Defendant"
+        ],
+        "template": [
+            "<Adjudicator> acquitted <Defendant>"
+        ]
+    }
+}

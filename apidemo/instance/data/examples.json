@@ -1,0 +1,2245 @@
+[
+    {
+        "sentence_id": "0",
+        "tokens": "Bagri was also charged with trying to murder Tara Singh Hayer, editor of The Indo-Canadian Times, North America's largest Punjabi newspaper, in 1998.",
+        "annotations": [
+            [
+                15,
+                22,
+                "Justice:Charge-Indict"
+            ],
+            [
+                38,
+                44,
+                "CND.Life:Die"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "1",
+        "tokens": "Florida police arrested James Harvey in Coral Springs on Friday.",
+        "annotations": [
+            [
+                15,
+                23,
+                "Justice:Arrest-Jail"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "10",
+        "tokens": "The giant luxury conglomerate LVMH-Moet Hennessy Louis Vuitton, which has been on a sustained acquisition bid, has offered to acquire Donna Karan International for $195 million in a cash deal with the idea that it could expand the company's revenues and beef up accessories and overseas sales.",
+        "annotations": [
+            [
+                126,
+                133,
+                "Transaction:Transfer-Ownership"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "100",
+        "tokens": "Abu Talb, the last major prosecution witness, has been jailed in Sweden for attacks against Jewish and American targets in Europe.",
+        "annotations": [
+            [
+                55,
+                61,
+                "Justice:Arrest-Jail"
+            ],
+            [
+                76,
+                83,
+                "CND.Conflict:Attack"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "101",
+        "tokens": "An issue in that strike is a management plan to hire more part-time drivers and limit overtime pay.",
+        "annotations": [
+            [
+                48,
+                52,
+                "Personnel:Start-Position"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "102",
+        "tokens": "The union began its strike on Monday.",
+        "annotations": [
+            [
+                20,
+                26,
+                "Conflict:Demonstrate"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "103",
+        "tokens": "We have done about 10 days of solid work across Michigan. Workers fighting for right to organize.",
+        "annotations": [
+            [
+                88,
+                96,
+                "Business:Start-Org"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "104",
+        "tokens": "Russian President Vladimir Putin says he will pardon and release American businessman Edmond Pope.",
+        "annotations": [
+            [
+                57,
+                64,
+                "Justice:Release-Parole"
+            ],
+            [
+                46,
+                52,
+                "Justice:Pardon"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "105",
+        "tokens": "Donald Crutchfield filed suit against Toys 'R' Us in 1997.",
+        "annotations": [
+            [
+                25,
+                29,
+                "Justice:Sue"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "106",
+        "tokens": "Five years there, $30 million. U.S. victims of terrorism have been able to sue foreign governments since 1996.",
+        "annotations": [
+            [
+                47,
+                56,
+                "CND.Conflict:Attack"
+            ],
+            [
+                75,
+                78,
+                "Justice:Sue"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "107",
+        "tokens": "A crowd of 1 million demonstrated Saturday in the capital, San'a, protesting against Israel, the United States and Arab leaders regarded as too soft on Israel.",
+        "annotations": [
+            [
+                21,
+                33,
+                "Conflict:Demonstrate"
+            ],
+            [
+                66,
+                76,
+                "Conflict:Demonstrate"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "108",
+        "tokens": "At a preliminary hearing Friday afternoon, Sauls made it clear he would take a no-nonsense approach to the trial.",
+        "annotations": [
+            [
+                17,
+                24,
+                "Justice:Trial-Hearing"
+            ],
+            [
+                107,
+                112,
+                "Justice:Trial-Hearing"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "109",
+        "tokens": "Ames recruited her as an informant in 1983, then married her two years later.",
+        "annotations": [
+            [
+                5,
+                14,
+                "CND.Personnel:Start-Position"
+            ],
+            [
+                49,
+                56,
+                "Life:Marry"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "11",
+        "tokens": "She was badly hurt in an automobile accident.",
+        "annotations": [
+            [
+                14,
+                18,
+                "Life:Injure"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "110",
+        "tokens": "One of those difficult-to-dislodge judges was John Marshall, nominated by Adams to be chief justice.",
+        "annotations": [
+            [
+                61,
+                70,
+                "Personnel:Nominate"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "111",
+        "tokens": "In other violence, a Palestinian worker was shot dead in the Gaza Strip and in the West Bank, another Palestinian, a teenager, was shot by Israeli soldiers during clashes.",
+        "annotations": [
+            [
+                9,
+                17,
+                "CND.Conflict:Attack"
+            ],
+            [
+                44,
+                48,
+                "Conflict:Attack"
+            ],
+            [
+                49,
+                53,
+                "Life:Die"
+            ],
+            [
+                131,
+                135,
+                "Conflict:Attack"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "112",
+        "tokens": "John sent an e-mail to Jane.",
+        "annotations": [
+            [
+                5,
+                9,
+                "Contact:Phone-Write"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "113",
+        "tokens": "Ali Mohammed, a native of Egypt, has admitted to five charges of conspiring with a Saudi born dissident Osama bin Laden to attack US targets in the Middle-East.",
+        "annotations": [
+            [
+                89,
+                93,
+                "Life:Be-Born"
+            ],
+            [
+                123,
+                129,
+                "CND.Justice:Charge-Indict"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "114",
+        "tokens": "JIn an eight-count indictment, the men were charged with using suitcases packed with explosives to bomb two Air-India jets on the same day, June 23, 1985.",
+        "annotations": [
+            [
+                19,
+                29,
+                "Justice:Charge-Indict"
+            ],
+            [
+                44,
+                51,
+                "CND.Justice:Charge-Indict"
+            ],
+            [
+                99,
+                103,
+                "CND.Conflict:Attack"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "115",
+        "tokens": "The late Pope John Paul II ...",
+        "annotations": [
+            [
+                4,
+                8,
+                "Life:Die"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "116",
+        "tokens": "PepsiCo Inc. has resumed talks to buy Quaker Oats Co., the maker of Gatorade and Cap'n Crunch cereal, for about $14 billion in stock, a source familiar with the discussions said Thursday.",
+        "annotations": [
+            [
+                34,
+                37,
+                "Transaction:Transfer-Ownership"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "117",
+        "tokens": "British Airways PLC plans to sell Go, its profitable cut-price subsidiary launched two years ago, the company said Monday.",
+        "annotations": [
+            [
+                29,
+                34,
+                "CND.Transaction:Transfer-Ownership"
+            ],
+            [
+                74,
+                82,
+                "Business:Start-Org"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "118",
+        "tokens": "In Ramallah, around 500 people took to the town's streets chanting slogans denouncing the summit and calling on Palestinian Authority leader Yasser Arafat not to take part in it.",
+        "annotations": [
+            [
+                31,
+                57,
+                "Conflict:Demonstrate"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "119",
+        "tokens": "People can communicate with international friends without the hefty phone bills.",
+        "annotations": [
+            [
+                11,
+                22,
+                "Contact:Phone-Write"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "12",
+        "tokens": "Two Palestinians were killed as they staged a drive-by ambush on an Israeli jeep in the Gaza Strip near the Israeli settlement of Gush Katif Saturday afternoon, and two Israeli soldiers were wounded, one critically.",
+        "annotations": [
+            [
+                22,
+                28,
+                "Life:Die"
+            ],
+            [
+                55,
+                61,
+                "CND.Conflict:Attack"
+            ],
+            [
+                191,
+                198,
+                "Life:Injure"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "120",
+        "tokens": "Harvey was released the following day.",
+        "annotations": [
+            [
+                11,
+                19,
+                "Justice:Release-Parole"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "121",
+        "tokens": "All three parties discussed the matter in a teleconference Thursday.",
+        "annotations": [
+            [
+                18,
+                27,
+                "Contact:Phone-Write"
+            ],
+            [
+                44,
+                58,
+                "Contact:Phone-Write"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "122",
+        "tokens": "The company was ordered to pay a fine of $300,000.",
+        "annotations": [
+            [
+                33,
+                37,
+                "Justice:Fine"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "123",
+        "tokens": "John is a divorced father of three.",
+        "annotations": [
+            [
+                10,
+                18,
+                "Life:Divorce"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "124",
+        "tokens": "Tornadoes destroyed homes and overturned cars in several areas of Alabama on Saturday and more than two dozen people were reported injured.",
+        "annotations": [
+            [
+                131,
+                138,
+                "Life:Injure"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "125",
+        "tokens": "JRyan Mathers was charged with reckless endangerment.",
+        "annotations": [
+            [
+                18,
+                25,
+                "Justice:Charge-Indict"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "126",
+        "tokens": "The fatal accident ...",
+        "annotations": [
+            [
+                4,
+                9,
+                "Life:Die"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "127",
+        "tokens": "She recently sold the film rights to her latest book, ``Saints and Villains,'' about Dietrich Bonhoeffer, the German theologian executed by the Nazis for plotting against Hitler.",
+        "annotations": [
+            [
+                128,
+                136,
+                "Justice:Execute"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "159",
+        "tokens": "Milosevic, who has been indicted by the international war crimes tribunal in The Hague, Netherlands, cannot leave Yugoslavia without risking arrest and extradition.",
+        "annotations": [
+            [
+                24,
+                32,
+                "Justice:Charge-Indict"
+            ],
+            [
+                141,
+                147,
+                "Justice:Arrest-Jail"
+            ],
+            [
+                152,
+                163,
+                "Justice:Extradite"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "129",
+        "tokens": "The youngest son of ex-dictator Suharto disobeyed a summons to surrender himself to prosecutors Monday and be imprisoned for corruption.",
+        "annotations": [
+            [
+                110,
+                120,
+                "Justice:Arrest-Jail"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "13",
+        "tokens": "The recently nominated Foley said...",
+        "annotations": [
+            [
+                13,
+                22,
+                "Personnel:Nominate"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "130",
+        "tokens": "He was acquitted by a jury in 1983, but a panel of judges reopened the case four years later, accusing him of both the original crime and lying about it under oath.",
+        "annotations": [
+            [
+                7,
+                16,
+                "Justice:Acquit"
+            ],
+            [
+                94,
+                102,
+                "CND.Justice:Charge-Indict"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "131",
+        "tokens": "The newly freed prisoners...",
+        "annotations": [
+            [
+                10,
+                15,
+                "Justice:Release-Parole"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "132",
+        "tokens": "All four live in the southern port city of Aden, where the two suspected suicide bombers blew up a small boat filled with explosives alongside the Cole on Oct. 12 as it prepared to refuel.",
+        "annotations": [
+            [
+                73,
+                80,
+                "Life:Die"
+            ],
+            [
+                89,
+                93,
+                "CND.Conflict:Attack"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "133",
+        "tokens": "A court of appeals on Tuesday suspended Gen. Augusto Pinochet's house arrest while it studied a judge's explanation for indicting the former dictator on homicide and kidnapping charges.",
+        "annotations": [
+            [
+                70,
+                76,
+                "Justice:Arrest-Jail"
+            ],
+            [
+                120,
+                129,
+                "CND.Justice:Charge-Indict"
+            ],
+            [
+                177,
+                184,
+                "CND.Justice:Charge-Indict"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "134",
+        "tokens": "The charity was suspected of giving money to Al Qaeda.",
+        "annotations": [
+            [
+                29,
+                35,
+                "Transaction:Transfer-Money"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "135",
+        "tokens": "Owens complained to Defense Secretary William Cohen, prompting a meeting Friday between the governor and Gen. John Coburn, commander of the Army Material Command.",
+        "annotations": [
+            [
+                65,
+                72,
+                "Contact:Meet"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "136",
+        "tokens": "A car bomb exploded Thursday in a crowded outdoor market in the heart of Jerusalem, killing at least two people, police said.",
+        "annotations": [
+            [
+                11,
+                19,
+                "Conflict:Attack"
+            ],
+            [
+                84,
+                91,
+                "CND.Life:Die"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "137",
+        "tokens": "More than 40,000 workers were back at their jobs Thursday following a 1- day walkout that closed social welfare offices and crippled public medical services. During the work stoppage Wednesday, local residents were unable to get documents.",
+        "annotations": [
+            [
+                77,
+                84,
+                "Conflict:Demonstrate"
+            ],
+            [
+                174,
+                182,
+                "Conflict:Demonstrate"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "138",
+        "tokens": "The commander of Israeli troops in the West Bank said there was a simple goal to the helicopter assassination on Thursday of a gun-wielding local Palestinian leader.",
+        "annotations": [
+            [
+                96,
+                109,
+                "Life:Die"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "139",
+        "tokens": "Kimes' main demand was that his mother not be extradited to California.",
+        "annotations": [
+            [
+                46,
+                56,
+                "Justice:Extradite"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "14",
+        "tokens": "The slain leader...",
+        "annotations": [
+            [
+                4,
+                9,
+                "Life:Die"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "140",
+        "tokens": "There is also a scandal that erupted over Russia's declaration that it will sell weapons to Iran, contrary to the earlier made agreement.",
+        "annotations": [
+            [
+                76,
+                80,
+                "Transaction:Transfer-Ownership"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "141",
+        "tokens": "The drug companies passed the final regulatory hurdle to their $72 billion merger, which will create the world's largest pharmaceutical company.",
+        "annotations": [
+            [
+                75,
+                81,
+                "Business:Merge-Org"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "142",
+        "tokens": "Authorities in New Mexico say actor Richard Farnsworth has died of a self-inflicted gunshot wound.",
+        "annotations": [
+            [
+                59,
+                63,
+                "Life:Die"
+            ],
+            [
+                92,
+                97,
+                "Life:Injure"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "143",
+        "tokens": "The rioting crowd broke windows and overturned cars.",
+        "annotations": [
+            [
+                4,
+                11,
+                "Conflict:Demonstrate"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "144",
+        "tokens": "For weeks Italian Jewish groups, World War II veterans and leftist political parties have staged protests against a meeting between the pope and Haider, arguing that a papal encounter would lend the Austrian politician legitimacy.",
+        "annotations": [
+            [
+                97,
+                105,
+                "Conflict:Demonstrate"
+            ],
+            [
+                116,
+                123,
+                "CND.Contact:Meet"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "145",
+        "tokens": "Brentwood Academy responded with a lawsuit that has made its way to the U.S. Supreme Court, where arguments will be made Wednesday.",
+        "annotations": [
+            [
+                35,
+                42,
+                "Justice:Sue"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "146",
+        "tokens": "Egypt said it has the approval of other Arab states to host a summit with the Palestinians and Israelis.",
+        "annotations": [
+            [
+                62,
+                68,
+                "Contact:Meet"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "147",
+        "tokens": "China has purchased two nuclear submarines from Russia.",
+        "annotations": [
+            [
+                10,
+                19,
+                "Transaction:Transfer-Ownership"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "148",
+        "tokens": "Joy Fenter was indicted by a grand jury on eleven counts of mail fraud.",
+        "annotations": [
+            [
+                15,
+                23,
+                "Justice:Charge-Indict"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "149",
+        "tokens": "For me, it's not difficult, because I was born without my hand, and I've never known any different.",
+        "annotations": [
+            [
+                42,
+                46,
+                "Life:Be-Born"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "15",
+        "tokens": "Protesters rallied on the White House lawn.",
+        "annotations": [
+            [
+                11,
+                18,
+                "Conflict:Demonstrate"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "150",
+        "tokens": "The couple divorced four years later.",
+        "annotations": [
+            [
+                11,
+                19,
+                "Life:Divorce"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "151",
+        "tokens": "Many other Israelis have turned away from the man they elected just 18 months ago.",
+        "annotations": [
+            [
+                55,
+                62,
+                "Personnel:Elect"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "152",
+        "tokens": "She was killed in an automobile accident.",
+        "annotations": [
+            [
+                8,
+                14,
+                "Life:Die"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "153",
+        "tokens": "Richard Jr. had 14 months, before he was laid off in October.",
+        "annotations": [
+            [
+                41,
+                49,
+                "Personnel:End-Position"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "154",
+        "tokens": "Defense attorneys said they will appeal.",
+        "annotations": [
+            [
+                33,
+                39,
+                "Justice:Appeal"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "155",
+        "tokens": "Tommy would again be summoned to meet prosecutors on Wednesday.",
+        "annotations": [
+            [
+                33,
+                37,
+                "Contact:Meet"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "156",
+        "tokens": "The president nominated Rep. Mark Foley (R-Fla.) to head the commission.",
+        "annotations": [
+            [
+                14,
+                23,
+                "Personnel:Nominate"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "157",
+        "tokens": "Midway through the hearing, Chief Justice Renquist seemed to scold his colleagues for being too talkative when he made an unusual offer to the lawyer representing Florida's Attorney General.",
+        "annotations": [
+            [
+                19,
+                26,
+                "Justice:Trial-Hearing"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "158",
+        "tokens": "U.S. forces continued to bomb Fallujah.",
+        "annotations": [
+            [
+                25,
+                29,
+                "Conflict:Attack"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "16",
+        "tokens": "But the Simpson trial and the jury's findings marked a turning point in the career of the twice-divorced mother of two.",
+        "annotations": [
+            [
+                16,
+                21,
+                "CND.Justice:Trial-Hearing"
+            ],
+            [
+                96,
+                104,
+                "Life:Divorce"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "160",
+        "tokens": "Stewart's hearing will be held on Monday in the superior court.",
+        "annotations": [
+            [
+                10,
+                17,
+                "Justice:Trial-Hearing"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "161",
+        "tokens": "Shareholders elected Sheila Johnson to a second term on the Board of Directors.",
+        "annotations": [
+            [
+                13,
+                20,
+                "Personnel:Elect"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "162",
+        "tokens": "Unlike the telephone, people can discreetly interact with others _ or decide not to.",
+        "annotations": [
+            [
+                44,
+                52,
+                "Contact:Phone-Write"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "163",
+        "tokens": "While investigators said they did not yet know where the Massachusetts-born suspect got his guns, Scott Harshbarger, the former state attorney general who pushed for more stringent state gun-control rules in the late 1990s, said, ``This is where you'll see if the tracing system works.''",
+        "annotations": [
+            [
+                71,
+                75,
+                "Life:Be-Born"
+            ],
+            [
+                84,
+                87,
+                "Transaction:Transfer-Ownership"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "164",
+        "tokens": "...where Pope is incarcerated.",
+        "annotations": [
+            [
+                17,
+                29,
+                "Justice:Arrest-Jail"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "165",
+        "tokens": "Mary Smith joined Foo Corp. in June 1998.",
+        "annotations": [
+            [
+                11,
+                17,
+                "Personnel:Start-Position"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "167",
+        "tokens": "Solomon could be sentenced to up to 211 years in prison.",
+        "annotations": [
+            [
+                17,
+                26,
+                "Justice:Sentence"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "168",
+        "tokens": "Presidential elections, including the one just ended, routinely include discussions on how a new chief executive's nominations to fill vacant positions might change the court's philosophical bent.",
+        "annotations": [
+            [
+                13,
+                22,
+                "CND.Personnel:Elect"
+            ],
+            [
+                115,
+                126,
+                "Personnel:Nominate"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "169",
+        "tokens": "There is an election dispute, a tie vote as a matter of fact.",
+        "annotations": [
+            [
+                12,
+                20,
+                "Personnel:Elect"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "17",
+        "tokens": "Chase was acquitted after a trial in the Senate.",
+        "annotations": [
+            [
+                28,
+                33,
+                "Justice:Trial-Hearing"
+            ],
+            [
+                10,
+                19,
+                "Justice:Acquit"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "170",
+        "tokens": "Fox and his four adopted children _ he is divorced will move into guest quarters behind the presidential residence",
+        "annotations": [
+            [
+                42,
+                50,
+                "Life:Divorce"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "171",
+        "tokens": "The question of which party controls the Texas Senate is especially important this year because the Senate will redraw congressional and legislative districts and could elect the next lieutenant governor if Gov. George W. Bush is elected president and is succeeded by Lt. Gov. Rick Perry.",
+        "annotations": [
+            [
+                255,
+                264,
+                "Personnel:Start-Position"
+            ],
+            [
+                255,
+                264,
+                "Personnel:End-Position"
+            ],
+            [
+                169,
+                174,
+                "Personnel:Elect"
+            ],
+            [
+                230,
+                237,
+                "Personnel:Elect"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "172",
+        "tokens": "Three U.S. banks, Chase Manhattan and its merger partner J.P. Morgan and Citibank, which was involved in moving about $100 million for Raul Salinas de Gortari, brother of a former Mexican president, to banks in Switzerland, are also expected to sign on, according to UBS.",
+        "annotations": [
+            [
+                42,
+                48,
+                "Business:Merge-Org"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "173",
+        "tokens": "Southern California Edison says it may have to file for bankruptcy unless government officials can offer some relief.",
+        "annotations": [
+            [
+                56,
+                66,
+                "Business:Declare-Bankruptcy"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "174",
+        "tokens": "David Goran was executed by lethal injection in March 1987.",
+        "annotations": [
+            [
+                16,
+                24,
+                "Justice:Execute"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "175",
+        "tokens": "They have been married for six years.",
+        "annotations": [
+            [
+                15,
+                22,
+                "Life:Marry"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "18",
+        "tokens": "Witnesses said the soldiers responded by firing tear gas and rubber bullets, which led to ten demonstrators being injured.",
+        "annotations": [
+            [
+                41,
+                47,
+                "CND.Conflict:Attack"
+            ],
+            [
+                114,
+                121,
+                "Life:Injure"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "19",
+        "tokens": "...a possible coup.",
+        "annotations": [
+            [
+                14,
+                18,
+                "Conflict:Attack"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "2",
+        "tokens": "The former leader was extradited to Burkina Faso.",
+        "annotations": [
+            [
+                22,
+                32,
+                "Justice:Extradite"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "20",
+        "tokens": "JGuzman indicted Pinochet, holding him responsible for the actions by the ``Caravan of Death,'' a military party that killed 73 political prisoners shortly after the 1973 coup in which Pinochet ousted Marxist President Salvador Allende.",
+        "annotations": [
+            [
+                8,
+                16,
+                "Justice:Charge-Indict"
+            ],
+            [
+                118,
+                124,
+                "CND.Life:Die"
+            ],
+            [
+                171,
+                175,
+                "CND.Conflict:Attack"
+            ],
+            [
+                194,
+                200,
+                "CND.Personnel:End-Position"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "21",
+        "tokens": "If the man accused of killing seven people near Boston on Tuesday got his guns in Massachusetts, he was able to skirt some of the strictest regulations in the country, people familiar with the state's laws said Wednesday.",
+        "annotations": [
+            [
+                11,
+                18,
+                "CND.Justice:Charge-Indict"
+            ],
+            [
+                22,
+                29,
+                "CND.Life:Die"
+            ],
+            [
+                66,
+                69,
+                "Transaction:Transfer-Ownership"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "23",
+        "tokens": "Twelve executed prisoners have been posthumously exonerated.",
+        "annotations": [
+            [
+                7,
+                15,
+                "Justice:Execute"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "24",
+        "tokens": "In the end, Milosevic may even prefer extradition to The Hague rather than stay here and face our justice,'' said opposition leader Zarko Korac.",
+        "annotations": [
+            [
+                38,
+                49,
+                "Justice:Extradite"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "25",
+        "tokens": "Jane Doe and John Smith were married on June 9, 1998.",
+        "annotations": [
+            [
+                29,
+                36,
+                "Life:Marry"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "26",
+        "tokens": "John Bobert Bond was born in England.",
+        "annotations": [
+            [
+                21,
+                25,
+                "Life:Be-Born"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "27",
+        "tokens": "The organization is living on borrowed funds.",
+        "annotations": [
+            [
+                30,
+                38,
+                "Transaction:Transfer-Money"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "28",
+        "tokens": "Gore holds a degree from the university, and is one of about 500 people nominated for the job.",
+        "annotations": [
+            [
+                72,
+                81,
+                "Personnel:Nominate"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "29",
+        "tokens": "The Palestinian leaders also warned that Israel must remove its soldiers from the outskirts of Palestinian cities.",
+        "annotations": [
+            [
+                53,
+                59,
+                "Movement:Transport"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "3",
+        "tokens": "Martha Breckenridge was convicted of two counts of manslaughter.",
+        "annotations": [
+            [
+                24,
+                33,
+                "Justice:Convict"
+            ],
+            [
+                51,
+                63,
+                "Life:Die"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "30",
+        "tokens": "A Russian court convicted Pope Wednesday on espionage charges and sentenced him to 20 years in prison.",
+        "annotations": [
+            [
+                16,
+                25,
+                "Justice:Convict"
+            ],
+            [
+                54,
+                61,
+                "CND.Justice:Charge-Indict"
+            ],
+            [
+                66,
+                75,
+                "Justice:Sentence"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "31",
+        "tokens": "He'd been married before and had a child.",
+        "annotations": [
+            [
+                10,
+                17,
+                "Life:Marry"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "32",
+        "tokens": "Orange County had previously filed Chapter 11 in 1995.",
+        "annotations": [
+            [
+                35,
+                45,
+                "Business:Declare-Bankruptcy"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "33",
+        "tokens": "Jephson, who was also Prince Charles' secretary for two years, said that the Princess confided in him a great deal, especially in the years preceding her divorce from the heir to the throne in 1996.",
+        "annotations": [
+            [
+                154,
+                161,
+                "Life:Divorce"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "34",
+        "tokens": "The jailed suspects demanded to speak to a lawyer.",
+        "annotations": [
+            [
+                4,
+                10,
+                "Justice:Arrest-Jail"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "35",
+        "tokens": "Terrorist groups have threatened to kill foreign hostages.",
+        "annotations": [
+            [
+                36,
+                40,
+                "Life:Die"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "36",
+        "tokens": "The assassination of the once-relatively obscure Fatah leader Obaiyat, whom the army blamed particularly for leading nocturnal shooting on Gilo, a neighborhood in southeastern Jerusalem, was regarded as a grave step by Israeli commentators.",
+        "annotations": [
+            [
+                127,
+                135,
+                "CND.Conflict:Attack"
+            ],
+            [
+                4,
+                17,
+                "Life:Die"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "37",
+        "tokens": "Eyewitnesses reported that Palestinians demonstrated today Sunday in the West Bank against the Sharm el-Sheikh summit to be held in Egypt tomorrow Monday.",
+        "annotations": [
+            [
+                40,
+                52,
+                "CND.Conflict:Demonstrate"
+            ],
+            [
+                111,
+                117,
+                "Contact:Meet"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "38",
+        "tokens": "In April of last year, the CR Company began bankruptcy procedures and the debt compensation rate of all its assets was only 5%.",
+        "annotations": [
+            [
+                44,
+                54,
+                "Business:Declare-Bankruptcy"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "39",
+        "tokens": "Parkhurst later merged with another company that owned Road & Track to become Bond/Parkhurst Publishing.",
+        "annotations": [
+            [
+                16,
+                22,
+                "Business:Merge-Org"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "4",
+        "tokens": "Talks on a long-planned merger with KLM Royal Dutch Airlines collapsed in September.",
+        "annotations": [
+            [
+                24,
+                30,
+                "Business:Merge-Org"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "40",
+        "tokens": "In July, Bank of America said it planned to cut as many as 10,000 jobs as it changes its focus from growing through mergers to becoming more profitable through use of technology and operating efficiency.",
+        "annotations": [
+            [
+                116,
+                123,
+                "Business:Merge-Org"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "41",
+        "tokens": "The trial resumed this week after a month of delays following the disclosure that new evidence surfaced on another group, the Damascus- based Palestinian Front for the Liberation of Palestine-General Command.",
+        "annotations": [
+            [
+                4,
+                9,
+                "Justice:Trial-Hearing"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "42",
+        "tokens": "It fined the school $3,000 and banned its football program.",
+        "annotations": [
+            [
+                3,
+                8,
+                "Justice:Fine"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "43",
+        "tokens": "Zone escaped the incident with minor injuries, and Kimes was moved to the prison's disciplinary housing unit, the authorities said.",
+        "annotations": [
+            [
+                37,
+                45,
+                "CND.Life:Injure"
+            ],
+            [
+                61,
+                66,
+                "Movement:Transport"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "44",
+        "tokens": "John Hinckley attempted to assassinate Ronald Reagan.",
+        "annotations": [
+            [
+                27,
+                38,
+                "Life:Die"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "45",
+        "tokens": "Tommy, a multimillionaire with a playboy image and love of fast cars, is the first member of Suharto's family to be convicted of graft.",
+        "annotations": [
+            [
+                116,
+                125,
+                "Justice:Convict"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "46",
+        "tokens": "They have been linked to cancer, birth defects, and other genetic abnormalities.",
+        "annotations": [
+            [
+                33,
+                38,
+                "Life:Be-Born"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "47",
+        "tokens": "The disabled passengers were helped off of the train.",
+        "annotations": [
+            [
+                4,
+                12,
+                "Life:Injure"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "48",
+        "tokens": "The bankrupt MCI-Worldcom...",
+        "annotations": [
+            [
+                4,
+                12,
+                "Business:Declare-Bankruptcy"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "49",
+        "tokens": "Greg Lashutka was elected mayor of Columbus in 1993.",
+        "annotations": [
+            [
+                18,
+                25,
+                "Personnel:Elect"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "5",
+        "tokens": "China, Japan, the United States, and both Koreas will hold a meeting this month.",
+        "annotations": [
+            [
+                61,
+                68,
+                "Contact:Meet"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "50",
+        "tokens": "In 1997, the company hired John D. Idol to take over as chief executive.",
+        "annotations": [
+            [
+                21,
+                26,
+                "Personnel:Start-Position"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "51",
+        "tokens": "Bush and Putin met earlier this week to discuss Chechnya.",
+        "annotations": [
+            [
+                15,
+                18,
+                "Contact:Meet"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "52",
+        "tokens": "She was sentenced to life without parole.",
+        "annotations": [
+            [
+                8,
+                17,
+                "Justice:Sentence"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "53",
+        "tokens": "In 1927 she married William Gresser, a New York lawyer and musicologist.",
+        "annotations": [
+            [
+                12,
+                19,
+                "Life:Marry"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "54",
+        "tokens": "The newly elected mayor...",
+        "annotations": [
+            [
+                10,
+                17,
+                "Personnel:Elect"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "55",
+        "tokens": "It found him guilty of enriching himself through a property deal with the state's main food supply agency.",
+        "annotations": [
+            [
+                13,
+                19,
+                "Justice:Convict"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "56",
+        "tokens": "Hutomo ``Tommy'' Mandala Putra, 37, was sentenced to 18 months in prison on Sept. 22 by the Supreme Court, which overturned an earlier acquittal by a lower court.",
+        "annotations": [
+            [
+                40,
+                49,
+                "Justice:Sentence"
+            ],
+            [
+                135,
+                144,
+                "CND.Justice:Acquit"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "57",
+        "tokens": "Another exchange of gunfire in Gilo...",
+        "annotations": [
+            [
+                20,
+                27,
+                "Conflict:Attack"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "58",
+        "tokens": "Mr. Erekat is due to travel to Washington to meet with US Secretary of State Madeleine Albright and other US officials attempting to win a ceasefire. Mrs. Albright has already met with Israel's acting foreign minister.",
+        "annotations": [
+            [
+                21,
+                27,
+                "Movement:Transport"
+            ],
+            [
+                45,
+                49,
+                "Contact:Meet"
+            ],
+            [
+                176,
+                179,
+                "Contact:Meet"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "59",
+        "tokens": "This year in Egypt, for example, avid campaigning helped women reverse laws that prevented them from obtaining divorce and traveling abroad without their husbands' permission.",
+        "annotations": [
+            [
+                111,
+                118,
+                "Life:Divorce"
+            ],
+            [
+                123,
+                132,
+                "CND.Movement:Transport"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "6",
+        "tokens": "A number of demonstrators threw stones and empty bottles at Israeli soldiers positioned near a Jewish holy site at the town's entrance.",
+        "annotations": [
+            [
+                26,
+                31,
+                "Conflict:Attack"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "60",
+        "tokens": "Since May, Russia has jailed over 20 suspected terrorists without a trial.",
+        "annotations": [
+            [
+                22,
+                28,
+                "Justice:Arrest-Jail"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "61",
+        "tokens": "Georgia fired football coach Jim Donnan Monday after a disappointing 7-4 season that started with the Bulldogs ranked No. 10 and picked to win the SEC East, his players said.",
+        "annotations": [
+            [
+                8,
+                13,
+                "Personnel:End-Position"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "62",
+        "tokens": "Since the beginning of the epidemic, about 22 million people have died of the disease.",
+        "annotations": [
+            [
+                66,
+                70,
+                "Life:Die"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "63",
+        "tokens": "A fire in a bangladeshi garment factory has left at least 37 people dead and 100 hospitalized.",
+        "annotations": [
+            [
+                68,
+                72,
+                "CND.Life:Die"
+            ],
+            [
+                81,
+                93,
+                "Life:Injure"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "64",
+        "tokens": "Ms. Brooks, who could go to prison and will certainly be heavily fined has agreed to turn state's evidence, turning against her boss.",
+        "annotations": [
+            [
+                65,
+                70,
+                "Justice:Fine"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "65",
+        "tokens": "The weapons were moved to a secure site in the south.",
+        "annotations": [
+            [
+                17,
+                22,
+                "Movement:Transport"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "66",
+        "tokens": "The state requires a permit, formally known as a ``firearm identification card,'' for purchase of virtually every kind of firearm, whether for personal protection or hunting.",
+        "annotations": [
+            [
+                86,
+                94,
+                "Transaction:Transfer-Ownership"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "67",
+        "tokens": "The organization survives on donations.",
+        "annotations": [
+            [
+                29,
+                38,
+                "Transaction:Transfer-Money"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "68",
+        "tokens": "A car bomb exploded in central Baghdad.",
+        "annotations": [
+            [
+                11,
+                19,
+                "Conflict:Attack"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "69",
+        "tokens": "I'd like to see them accept his offer,'' said Jean Dolan, 59, a retired singing instructor who borrowed about $10,500 to buy Eircom shares in the IPO in July 1999.",
+        "annotations": [
+            [
+                95,
+                103,
+                "Transaction:Transfer-Money"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "7",
+        "tokens": "Bill Clinton started office on January 20, 1993.",
+        "annotations": [
+            [
+                13,
+                27,
+                "Personnel:Start-Position"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "70",
+        "tokens": "The company folded in 2002.",
+        "annotations": [
+            [
+                12,
+                18,
+                "Business:End-Org"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "71",
+        "tokens": "46-year-old Abu Talib was sentenced to life imprisonment in 1990 in Sweden for terrorist acts in Amsterdam, Copenhagen and Stockholm between 1985 and 1986.",
+        "annotations": [
+            [
+                26,
+                35,
+                "Justice:Sentence"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "72",
+        "tokens": "Jane Doe was born in Casper, Wyoming on March 18, 1964.",
+        "annotations": [
+            [
+                13,
+                17,
+                "Life:Be-Born"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "73",
+        "tokens": "Jane and John are married.",
+        "annotations": [
+            [
+                18,
+                25,
+                "Life:Marry"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "74",
+        "tokens": "Two soldiers were wounded in the attack.",
+        "annotations": [
+            [
+                18,
+                25,
+                "Life:Injure"
+            ],
+            [
+                33,
+                39,
+                "CND.Conflict:Attack"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "75",
+        "tokens": "And so the case is being tried in federal court, where prosecutors can, and say they will, seek the death penalty.",
+        "annotations": [
+            [
+                25,
+                30,
+                "Justice:Trial-Hearing"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "76",
+        "tokens": "Bush said he might change his mind if he did not think that executions saved lives.",
+        "annotations": [
+            [
+                60,
+                70,
+                "Justice:Execute"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "77",
+        "tokens": "``We have a strong interest in supporting Yugoslavia's newly elected leaders as they work to build a truly democratic society,'' Clinton said.",
+        "annotations": [
+            [
+                61,
+                68,
+                "Personnel:Elect"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "78",
+        "tokens": "Israel retaliated with rocket attacks and terrorists blew a hole in a United States warship in Yemen.",
+        "annotations": [
+            [
+                30,
+                37,
+                "Conflict:Attack"
+            ],
+            [
+                53,
+                57,
+                "Conflict:Attack"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "79",
+        "tokens": "Joseph Conrad Parkhurst, who founded the motorcycle magazine Cycle World in 1962, has died.",
+        "annotations": [
+            [
+                29,
+                36,
+                "Business:Start-Org"
+            ],
+            [
+                86,
+                90,
+                "CND.Life:Die"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "8",
+        "tokens": "Canadian authorities arrested two Vancouver-area men on Friday and charged them in the deaths of 329 passengers and crew members of an Air-India Boeing 747 that blew up over the Irish Sea in 1985, en route from Canada to London.",
+        "annotations": [
+            [
+                87,
+                93,
+                "Life:Die"
+            ],
+            [
+                67,
+                74,
+                "CND.Justice:Charge-Indict"
+            ],
+            [
+                21,
+                29,
+                "Justice:Arrest-Jail"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "80",
+        "tokens": "We watched the state funeral in Montreal today for Canada's former prime minister Pierre Trudeau, who died last week at 80.",
+        "annotations": [
+            [
+                60,
+                66,
+                "CND.Personnel:End-Position"
+            ],
+            [
+                102,
+                106,
+                "Life:Die"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "81",
+        "tokens": "Seven Lebanese Druze representatives out of eight who met under the leadership of representative Walid Jumblatt called on \"youths in our Islamic Arab faction to actively join the heroic Palestinian Intifada against Israeli occupation and its agents, and to expose its means and methods.\" Only representative Talal Arslan did not attend the meeting.",
+        "annotations": [
+            [
+                54,
+                57,
+                "Contact:Meet"
+            ],
+            [
+                198,
+                206,
+                "CND.Conflict:Attack"
+            ],
+            [
+                340,
+                347,
+                "Contact:Meet"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "82",
+        "tokens": "Residents were unable to register marriages.",
+        "annotations": [
+            [
+                34,
+                43,
+                "Life:Marry"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "83",
+        "tokens": "Foo Corp. hired Mary Smith in June 1998.",
+        "annotations": [
+            [
+                10,
+                15,
+                "Personnel:Start-Position"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "84",
+        "tokens": "Jenna Raleigh will be tried in a military court.",
+        "annotations": [
+            [
+                22,
+                27,
+                "Justice:Trial-Hearing"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "85",
+        "tokens": "In a drastic measure earlier this month, government-controlled creditor banks named 52 financially weak companies that should be shut down or merged for sale.",
+        "annotations": [
+            [
+                142,
+                148,
+                "Business:Merge-Org"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "86",
+        "tokens": "Asked what he had done to attract attention since he was incarcerated, Chapman recalled a 1987 interview with People magazine, for which he received $5,000, according to news reports at the time.",
+        "annotations": [
+            [
+                57,
+                69,
+                "Justice:Arrest-Jail"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "87",
+        "tokens": "A Palestinian terrorist began his testimony Friday in the trial of two Libyans accused of bombing Pan Am Flight 103, describing his role in attacks against Israel in the 1970s.",
+        "annotations": [
+            [
+                58,
+                63,
+                "Justice:Trial-Hearing"
+            ],
+            [
+                90,
+                97,
+                "CND.Conflict:Attack"
+            ],
+            [
+                140,
+                147,
+                "CND.Conflict:Attack"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "88",
+        "tokens": "A judicial source said today, Friday, that five Croatians were arrested last Tuesday during an operation targeting a number of war criminals suspected of involvement in the killing of around 50 Serbian civilians in 1991.",
+        "annotations": [
+            [
+                63,
+                71,
+                "Justice:Arrest-Jail"
+            ],
+            [
+                95,
+                104,
+                "CND.Conflict:Attack"
+            ],
+            [
+                173,
+                180,
+                "CND.Life:Die"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "89",
+        "tokens": "Sunday night's clashes...",
+        "annotations": [
+            [
+                15,
+                22,
+                "Conflict:Attack"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "9",
+        "tokens": "This report concerns China's recently acquired submarines.",
+        "annotations": [
+            [
+                38,
+                46,
+                "Transaction:Transfer-Ownership"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "90",
+        "tokens": "The injured soldier...",
+        "annotations": [
+            [
+                4,
+                11,
+                "Life:Injure"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "91",
+        "tokens": "Clinton also touched on the matter of American Edmond Pope who is being tried in a closed court in Russia on charges of spying.",
+        "annotations": [
+            [
+                72,
+                77,
+                "Justice:Trial-Hearing"
+            ],
+            [
+                109,
+                116,
+                "CND.Justice:Charge-Indict"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "92",
+        "tokens": "The aid was aimed at repairing houses damaged by Israeli bombing and buying additional ambulances to transport the rising number of wounded.",
+        "annotations": [
+            [
+                57,
+                64,
+                "CND.Conflict:Attack"
+            ],
+            [
+                69,
+                75,
+                "Transaction:Transfer-Ownership"
+            ],
+            [
+                101,
+                110,
+                "Movement:Transport"
+            ],
+            [
+                132,
+                139,
+                "CND.Life:Injure"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "93",
+        "tokens": "Thousands of people rioted in Port-au-Prince, Haiti over the weekend.",
+        "annotations": [
+            [
+                20,
+                26,
+                "Conflict:Demonstrate"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "94",
+        "tokens": "He calculated that Jesus' birth had occurred 532 years earlier.",
+        "annotations": [
+            [
+                26,
+                31,
+                "Life:Be-Born"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "95",
+        "tokens": "John called Jane last night.",
+        "annotations": [
+            [
+                5,
+                11,
+                "Contact:Phone-Write"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "96",
+        "tokens": "All else being equal, Duane Roelands would prefer to dash off short instant text messages to co-workers and friends with the service offered by Microsoft _ the one he finds easiest to use.",
+        "annotations": [
+            [
+                53,
+                57,
+                "Contact:Phone-Write"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "97",
+        "tokens": "Actors and singers also on the flight held a benefit concert in Baghdad Saturday evening, with most of the $13 cover charge to be donated to support the Palestinian uprising.",
+        "annotations": [
+            [
+                130,
+                137,
+                "Transaction:Transfer-Money"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "98",
+        "tokens": "Men in civilian clothes in the crowd began firing with AK-47 assault rifles and a 45-minute gun battle broke out.",
+        "annotations": [
+            [
+                43,
+                49,
+                "Conflict:Attack"
+            ],
+            [
+                96,
+                102,
+                "Conflict:Attack"
+            ]
+        ]
+    },
+    {
+        "sentence_id": "99",
+        "tokens": "Appointed to the federal bench in 1979, he was charged two years later with conspiracy to accept a bribe in a case he presided over in Miami.",
+        "annotations": [
+            [
+                47,
+                54,
+                "Justice:Charge-Indict"
+            ]
+        ]
+    }
+]

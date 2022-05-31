@@ -1,0 +1,35 @@
+INFO:root:Namespace(accumulation_steps=1, batch_size=8, clean_log_dir=False, continue_train=False, dataset='ace', decay=0.01, eval_batch_size=32, example_ratio=1.0, example_regularization=True, example_training=False, example_validation=False, gpu='0', hidden_dim=512, json_root='/shared/nas/data/users/zixuan11/apidemo/apidemo/instance/data', learning_rate=1e-05, load_model='', log='/shared/nas/data/users/zixuan11/apidemo/apidemo/instance/data/log/logfile.log', log_dir='/shared/nas/data/users/zixuan11/apidemo/apidemo/instance/data/log', max_grad_norm=1, max_length=96, model_name='roberta-large', no_gpu=False, patience=3, root='/shared/nas/data/users/zixuan11/apidemo/apidemo/instance/data', run_fold=0, save_model='model', seed=44739242, setting='token', test_only=False, train_epoch=2, train_step=3000, warmup_step=1200, weak_annotation='cluster', weak_corpus='ace')
+INFO:root:{"Movement:Transport": 2, "Personnel:Elect": 5, "Personnel:Start-Position": 13, "Personnel:Nominate": 28, "Personnel:End-Position": 6, "Conflict:Attack": 1, "Contact:Meet": 4, "Life:Marry": 19, "Transaction:Transfer-Money": 7, "Conflict:Demonstrate": 16, "Business:End-Org": 23, "Justice:Sue": 17, "Life:Injure": 8, "Life:Die": 3, "Justice:Arrest-Jail": 15, "Contact:Phone-Write": 9, "Transaction:Transfer-Ownership": 12, "Business:Start-Org": 25, "Justice:Execute": 26, "Justice:Trial-Hearing": 11, "Life:Be-Born": 21, "Justice:Charge-Indict": 10, "Justice:Convict": 18, "Justice:Sentence": 14, "Business:Declare-Bankruptcy": 22, "Justice:Release-Parole": 20, "Justice:Fine": 27, "Justice:Pardon": 33, "Justice:Appeal": 24, "Justice:Extradite": 31, "Life:Divorce": 30, "Business:Merge-Org": 29, "Justice:Acquit": 32, "NA": 0}
+INFO:root:Epoch   1  Train Loss 1.5462 None
+INFO:root:Epoch   1: Dev_0 0.0000|
+INFO:root:Epoch   1  Train Loss 0.1998 None
+INFO:root:Epoch   1: Dev_0 0.2613|
+INFO:root:Epoch   1  Train Loss 0.0898 None
+INFO:root:Epoch   1: Dev_0 0.7481|
+INFO:root:Epoch   1  Train Loss 0.0589 None
+INFO:root:Epoch   1: Dev_0 0.7985|
+INFO:root:Epoch   1  Train Loss 0.0523 None
+INFO:root:Epoch   1: Dev_0 0.8275|
+INFO:root:Epoch   1  Train Loss 0.0420 None
+INFO:root:Epoch   1: Dev_0 0.8416|
+INFO:root:Epoch   1  Train Loss 0.0432 None
+INFO:root:Epoch   1: Dev_0 0.8492|
+INFO:root:Epoch   1  Train Loss 0.0321 None
+INFO:root:Epoch   1: Dev_0 0.8842|
+INFO:root:Epoch   1  Train Loss 0.0266 None
+INFO:root:Epoch   1: Dev_0 0.8854|
+INFO:root:Epoch   1  Train Loss 0.0274 None
+INFO:root:Epoch   1: Dev_0 0.8926|
+INFO:root:Epoch   1  Train Loss 0.0234 None
+INFO:root:Epoch   1: Dev_0 0.8851|
+INFO:root:Epoch   1  Train Loss 0.0230 None
+INFO:root:Epoch   1: Dev_0 0.8841|
+INFO:root:Epoch   1  Train Loss 0.0132 None
+INFO:root:Epoch   1: Dev_0 0.8885|
+INFO:root:BEST DEV : [(0.912379421221865, 0.8737490377213241, 0.8926464805348014),]
+INFO:werkzeug:10.250.59.82 - - [30/May/2022 20:35:02] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:10.250.59.82 - - [30/May/2022 20:35:02] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:10.250.59.82 - - [30/May/2022 20:35:02] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:10.250.59.82 - - [30/May/2022 20:35:03] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:10.250.59.82 - - [30/May/2022 20:35:03] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:10.250.59.82 - - [30/May/2022 20:35:03] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -

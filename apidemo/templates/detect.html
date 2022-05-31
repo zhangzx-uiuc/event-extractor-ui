@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+{% block title %}Flasky - User{% endblock %}
+
+{% block page_content %}
+    <div class="page-header">
+        <h1>Event Extraction</h1>
+    </div>
+    {{ wtf.quick_form(form) }}
+
+    <div>
+        <br>
+    <p><b>Event Extraction Results</b></p>
+    {% if results %}
+    <table>
+        <tbody>
+        {% for ann in results %}
+            <tr>
+                {{ ann|safe }}
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+    {% else %}
+    No Events Found
+    {% endif %}
+    </div>
+
+    <div>
+        <br>
+        <p><b>Download Current Model</b></p>
+        <p><a href="/download">Download</a></p>
+    </div>
+
+    <br>
+    {{ wtf.quick_form(model_form) }}
+{% endblock %}
