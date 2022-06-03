@@ -1,5 +1,6 @@
 #### Weakly Supervised Event Extraction System
 Source code for paper: 
+
 Pengfei Yu, Zixuan Zhang, Clare Voss, Jonathan May, Heng Ji, *Building an event extractor with only a few examples*. In NAACL 2022 Workshop for Deep Learning for Low-Resource NLP.
 
 #### Example Files to Upload for Event Extraction
